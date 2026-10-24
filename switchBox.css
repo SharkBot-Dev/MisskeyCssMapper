@@ -1,0 +1,48 @@
+.switchBox {
+    --height: 21px;
+    box-sizing: border-box;
+    width: calc(var(--height) * 1.6);
+    height: calc(var(--height) + 2px);
+    background: var(--MI_THEME-switchOffBg);
+    border: solid 1px var(--MI_THEME-switchOffBg);
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    background-clip: content-box;
+    border-radius: 999px;
+    outline: none;
+    flex-shrink: 0;
+    margin: 0;
+    transition: inherit;
+    display: inline-flex;
+    position: relative
+}
+
+.switchOn {
+    left: calc(100% - var(--height) + 3px);
+    background: var(--MI_THEME-switchOnFg)
+}
+
+.switchOnBG {
+    background-color: var(--MI_THEME-switchOnBg)!important;
+    border-color: var(--MI_THEME-switchOnBg)!important
+}
+
+.switchCursor {
+    cursor: not-allowed
+}
+
+.switchBoxPochi {
+    box-sizing: border-box;
+    width: calc(var(--height) - 6px);
+    height: calc(var(--height) - 6px);
+    border-radius: 999px;
+    transition: all .2s;
+    position: absolute;
+    top: 3px
+}
+
+.switchBoxPochi:not(.switchBoxPochi) {
+    background: var(--MI_THEME-switchOffFg);
+    left: 3px
+}
