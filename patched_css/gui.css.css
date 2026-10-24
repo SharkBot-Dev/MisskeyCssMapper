@@ -1,88 +1,88 @@
-.xm2ih>.xfLhG,.xw1Cv>.xfLhG {
+.mktransformtranslatey0>.mkopacity,.mktransformtranslatey02>.mkopacity {
     transition: opacity .3s!important
 }
 
-.xm2ih>.xr8AW,.xw1Cv>.xr8AW {
+.mktransformtranslatey0>.mkpositionfixeddisplayflexoverflowauto,.mktransformtranslatey02>.mkpositionfixeddisplayflexoverflowauto {
     transform: translateY(0);
     transition: opacity .3s ease-in,transform .3s cubic-bezier(.5,-.5,1,.5)!important
 }
 
-.xjKae>.xfLhG,.xi3lA>.xfLhG {
+.mkopacitytransformtranslatey300px>.mkopacity,.mkopacitytransformtranslatey300px2>.mkopacity {
     opacity: 0
 }
 
-.xjKae>.xr8AW,.xi3lA>.xr8AW {
+.mkopacitytransformtranslatey300px>.mkpositionfixeddisplayflexoverflowauto,.mkopacitytransformtranslatey300px2>.mkpositionfixeddisplayflexoverflowauto {
     pointer-events: none;
     opacity: 0;
     transform: translateY(-300px)
 }
 
-.xnO1Z>.xfLhG,.xwDkx>.xfLhG {
+.mktransitionopacity2stransformOriginTheme>.mkopacity,.mktransitionopacity2stransformOriginTheme2>.mkopacity {
     transition: opacity .2s!important
 }
 
-.xnO1Z>.xr8AW,.xwDkx>.xr8AW {
+.mktransitionopacity2stransformOriginTheme>.mkpositionfixeddisplayflexoverflowauto,.mktransitionopacity2stransformOriginTheme2>.mkpositionfixeddisplayflexoverflowauto {
     transform-origin: var(--transformOrigin);
     transition: opacity .2s,transform .2s!important
 }
 
-.xfIJQ>.xfLhG,.xzhL2>.xfLhG {
+.mkopacitytransformscale9>.mkopacity,.mkopacitytransformscale92>.mkopacity {
     opacity: 0
 }
 
-.xfIJQ>.xr8AW,.xzhL2>.xr8AW {
+.mkopacitytransformscale9>.mkpositionfixeddisplayflexoverflowauto,.mkopacitytransformscale92>.mkpositionfixeddisplayflexoverflowauto {
     pointer-events: none;
     opacity: 0;
     transform-origin: var(--transformOrigin);
     transform: scale(.9)
 }
 
-.xdflJ>.xfLhG,.xogLu>.xfLhG {
+.mktransitionopacity1stransformOriginTheme>.mkopacity,.mktransitionopacity1stransformOriginTheme2>.mkopacity {
     transition: opacity .1s!important
 }
 
-.xdflJ>.xr8AW,.xogLu>.xr8AW {
+.mktransitionopacity1stransformOriginTheme>.mkpositionfixeddisplayflexoverflowauto,.mktransitionopacity1stransformOriginTheme2>.mkpositionfixeddisplayflexoverflowauto {
     transform-origin: var(--transformOrigin);
     transition: opacity .1s cubic-bezier(0,0,.2,1),transform .1s cubic-bezier(0,0,.2,1)!important
 }
 
-.xqaDC>.xfLhG,.xxHuc>.xfLhG {
+.mkopacitytransformscale93>.mkopacity,.mkopacitytransformscale94>.mkopacity {
     opacity: 0
 }
 
-.xqaDC>.xr8AW,.xxHuc>.xr8AW {
+.mkopacitytransformscale93>.mkpositionfixeddisplayflexoverflowauto,.mkopacitytransformscale94>.mkpositionfixeddisplayflexoverflowauto {
     pointer-events: none;
     opacity: 0;
     transform-origin: var(--transformOrigin);
     transform: scale(.9)
 }
 
-.xEfJP>.xfLhG {
+.mktransitionopacity2s>.mkopacity {
     transition: opacity .2s!important
 }
 
-.xEfJP>.xr8AW {
+.mktransitionopacity2s>.mkpositionfixeddisplayflexoverflowauto {
     transition: transform .2s cubic-bezier(0,.5,0,1)!important
 }
 
-.xied9>.xfLhG {
+.mktransitionopacity2s2>.mkopacity {
     transition: opacity .2s!important
 }
 
-.xied9>.xr8AW {
+.mktransitionopacity2s2>.mkpositionfixeddisplayflexoverflowauto {
     transition: transform .2s cubic-bezier(0,.5,0,1)!important
 }
 
-.xAU4X>.xfLhG,.xmmQV>.xfLhG {
+.mkopacitytransformtranslatey100>.mkopacity,.mkopacitytransformtranslatey1002>.mkopacity {
     opacity: 0
 }
 
-.xAU4X>.xr8AW,.xmmQV>.xr8AW {
+.mkopacitytransformtranslatey100>.mkpositionfixeddisplayflexoverflowauto,.mkopacitytransformtranslatey1002>.mkpositionfixeddisplayflexoverflowauto {
     pointer-events: none;
     transform: translateY(100%)
 }
 
-.xc6MI.xfC1o>.xr8AW {
+.mkpositionfixeddisplayflexwidth.mkpositionfixeddisplayflexoverflowauto2>.mkpositionfixeddisplayflexoverflowauto {
     margin: auto;
     padding: 32px;
     display: flex;
@@ -92,20 +92,20 @@
 }
 
 @media (width<=500px) {
-    .xc6MI.xfC1o>.xr8AW {
+    .mkpositionfixeddisplayflexwidth.mkpositionfixeddisplayflexoverflowauto2>.mkpositionfixeddisplayflexoverflowauto {
         padding: 16px
     }
 }
 
-.xc6MI.xEzLL>.xr8AW {
+.mkpositionfixeddisplayflexwidth.mkpositionabsolute>.mkpositionfixeddisplayflexoverflowauto {
     position: absolute
 }
 
-.xc6MI.xEzLL>.xr8AW.xzO6v {
+.mkpositionfixeddisplayflexwidth.mkpositionabsolute>.mkpositionfixeddisplayflexoverflowauto.mkpositionfixed {
     position: fixed
 }
 
-.xc6MI.x7RPt {
+.mkpositionfixeddisplayflexwidth.mkpositionfixedwidthheight {
     width: 100%;
     height: 100%;
     position: fixed;
@@ -114,7 +114,7 @@
     overflow: clip
 }
 
-.xc6MI.x7RPt>.xr8AW {
+.mkpositionfixeddisplayflexwidth.mkpositionfixedwidthheight>.mkpositionfixeddisplayflexoverflowauto {
     margin: auto;
     position: fixed;
     bottom: 0;
@@ -122,33 +122,33 @@
     right: 0
 }
 
-.xfLhG.xtIzE {
+.mkopacity.mkbackdropFilternonebackground {
     backdrop-filter: none;
     background: 0 0
 }
 
-.xyxFI {
+.mkfontSizeem {
     padding-left: 2px;
     font-size: .9em
 }
 
-.xiqec {
+.mktextAligncenterpaddingpx {
     text-align: center;
     padding: 32px
 }
 
-.xAD11 {
+.mkheightpxborderRadiuspx {
     vertical-align: bottom;
     border-radius: 16px;
     height: 128px;
     margin-bottom: 24px
 }
 
-.xnkSQ {
+.mkwillChangecontents {
     will-change: contents
 }
 
-.xEgaA {
+.mkpositionrelativewidthoverflowclip {
     width: 100%;
     min-height: var(--frame-min-height,0px);
     mask-image: linear-gradient(90deg,#000 0% 80%,#0000);
@@ -158,7 +158,7 @@
     -webkit-mask-image: -webkit-linear-gradient(90deg,#000 0% 80%,#0000)
 }
 
-.xtE7l {
+.mkpositionabsolutedisplayflexflexDirectioncolumn {
     flex-direction: column;
     align-items: center;
     width: 100%;
@@ -168,114 +168,114 @@
     bottom: 0
 }
 
-.xtE7l>.xkVoI,.xtE7l>.xw9Uo {
+.mkpositionabsolutedisplayflexflexDirectioncolumn>.mktransformrotate180degmarginpx0,.mkpositionabsolutedisplayflexflexDirectioncolumn>.mkmarginpx0 {
     margin: 6px 0
 }
 
-.xtE7l>.xkVoI {
+.mkpositionabsolutedisplayflexflexDirectioncolumn>.mktransformrotate180degmarginpx0 {
     transition: transform .25s
 }
 
-.xtE7l>.xkVoI.xfjHf {
+.mkpositionabsolutedisplayflexflexDirectioncolumn>.mktransformrotate180degmarginpx0.mktransformrotate180deg {
     transform: rotate(180deg)
 }
 
-.xtE7l>.xjTNU {
+.mkpositionabsolutedisplayflexflexDirectioncolumn>.mkfontSizemarginpx0 {
     margin: 5px 0;
     font-size: 90%
 }
 
-.xnV39 {
+.mkpositionfixedwidthpxheightpx {
     pointer-events: none;
     width: 128px;
     height: 128px;
     position: fixed
 }
 
-.omfetrab[data-v-c463eb9c] {
+.mkpositionstickydisplayflexflexDirectioncolumn[data-v-c463eb9c] {
     flex-direction: column;
     display: flex
 }
 
-.omfetrab.s1[data-v-c463eb9c] {
+.mkpositionstickydisplayflexflexDirectioncolumn.mkStyledElement[data-v-c463eb9c] {
     --eachSize: 40px
 }
 
-.omfetrab.s2[data-v-c463eb9c] {
+.mkpositionstickydisplayflexflexDirectioncolumn.mkStyledElement2[data-v-c463eb9c] {
     --eachSize: 45px
 }
 
-.omfetrab.s3[data-v-c463eb9c] {
+.mkpositionstickydisplayflexflexDirectioncolumn.mkStyledElement3[data-v-c463eb9c] {
     --eachSize: 50px
 }
 
-.omfetrab.s4[data-v-c463eb9c] {
+.mkpositionstickydisplayflexflexDirectioncolumn.mkStyledElement4[data-v-c463eb9c] {
     --eachSize: 55px
 }
 
-.omfetrab.s5[data-v-c463eb9c] {
+.mkpositionstickydisplayflexflexDirectioncolumn.mkStyledElement5[data-v-c463eb9c] {
     --eachSize: 60px
 }
 
-.omfetrab.w1[data-v-c463eb9c] {
+.mkpositionstickydisplayflexflexDirectioncolumn.mkStyledElement6[data-v-c463eb9c] {
     --columns: 5
 }
 
-.omfetrab.w2[data-v-c463eb9c] {
+.mkpositionstickydisplayflexflexDirectioncolumn.mkStyledElement7[data-v-c463eb9c] {
     --columns: 6
 }
 
-.omfetrab.w3[data-v-c463eb9c] {
+.mkpositionstickydisplayflexflexDirectioncolumn.mkStyledElement8[data-v-c463eb9c] {
     --columns: 7
 }
 
-.omfetrab.w4[data-v-c463eb9c] {
+.mkpositionstickydisplayflexflexDirectioncolumn.mkStyledElement9[data-v-c463eb9c] {
     --columns: 8
 }
 
-.omfetrab.w5[data-v-c463eb9c] {
+.mkpositionstickydisplayflexflexDirectioncolumn.mkStyledElement10[data-v-c463eb9c] {
     --columns: 9
 }
 
-.omfetrab.h1[data-v-c463eb9c] {
+.mkpositionstickydisplayflexflexDirectioncolumn.mkStyledElement11[data-v-c463eb9c] {
     --rows: 4
 }
 
-.omfetrab.h2[data-v-c463eb9c] {
+.mkpositionstickydisplayflexflexDirectioncolumn.mkStyledElement12[data-v-c463eb9c] {
     --rows: 6
 }
 
-.omfetrab.h3[data-v-c463eb9c] {
+.mkpositionstickydisplayflexflexDirectioncolumn.mkStyledElement13[data-v-c463eb9c] {
     --rows: 8
 }
 
-.omfetrab.h4[data-v-c463eb9c] {
+.mkpositionstickydisplayflexflexDirectioncolumn.mkStyledElement14[data-v-c463eb9c] {
     --rows: 10
 }
 
-.omfetrab[data-v-c463eb9c] {
+.mkpositionstickydisplayflexflexDirectioncolumn[data-v-c463eb9c] {
     width: calc(var(--eachSize) * var(--columns) + 8px * 2);
     height: calc(var(--eachSize) * var(--rows) + 8px * 2)
 }
 
-.omfetrab.asDrawer[data-v-c463eb9c] {
+.mkpositionstickydisplayflexflexDirectioncolumn.mkdisplaygridwidthheightpx[data-v-c463eb9c] {
     width: 100%!important
 }
 
-.omfetrab.asDrawer>.emojis[data-v-c463eb9c] section>header {
+.mkpositionstickydisplayflexflexDirectioncolumn.mkdisplaygridwidthheightpx>.mkpositionstickydisplaygridwidthauto[data-v-c463eb9c] section>header {
     height: 32px;
     padding: 0 12px;
     font-size: 15px;
     line-height: 32px
 }
 
-.omfetrab.asDrawer>.emojis[data-v-c463eb9c] section>.body {
+.mkpositionstickydisplayflexflexDirectioncolumn.mkdisplaygridwidthheightpx>.mkpositionstickydisplaygridwidthauto[data-v-c463eb9c] section>.mkpositionrelativedisplaygridwidthauto {
     grid-template-columns: repeat(var(--columns), 1fr);
     font-size: 30px;
     display: grid
 }
 
-.omfetrab.asDrawer>.emojis[data-v-c463eb9c] section>.body>.config {
+.mkpositionstickydisplayflexflexDirectioncolumn.mkdisplaygridwidthheightpx>.mkpositionstickydisplaygridwidthauto[data-v-c463eb9c] section>.mkpositionrelativedisplaygridwidthauto>.mkpositionrelativewidthautoheightauto {
     aspect-ratio: 1;
     width: auto;
     min-width: 0;
@@ -283,37 +283,37 @@
     font-size: 14px
 }
 
-.omfetrab.asDrawer>.emojis[data-v-c463eb9c] section>.body>.item {
+.mkpositionstickydisplayflexflexDirectioncolumn.mkdisplaygridwidthheightpx>.mkpositionstickydisplaygridwidthauto[data-v-c463eb9c] section>.mkpositionrelativedisplaygridwidthauto>.mkpositionrelativewidthautoheightauto2 {
     aspect-ratio: 1;
     width: auto;
     min-width: 0;
     height: auto
 }
 
-.omfetrab.asDrawer>.emojis[data-v-c463eb9c] section>.body>.item:disabled {
+.mkpositionstickydisplayflexflexDirectioncolumn.mkdisplaygridwidthheightpx>.mkpositionstickydisplaygridwidthauto[data-v-c463eb9c] section>.mkpositionrelativedisplaygridwidthauto>.mkpositionrelativewidthautoheightauto2:disabled {
     cursor: not-allowed;
     opacity: 1;
     background: linear-gradient(-45deg,#0000 0% 48%,light-dark(#00000040,#ffffff26) 48% 52%,#0000 52% 100%)
 }
 
-.omfetrab.asDrawer>.emojis[data-v-c463eb9c] section>.body>.item:disabled>.emoji {
+.mkpositionstickydisplayflexflexDirectioncolumn.mkdisplaygridwidthheightpx>.mkpositionstickydisplaygridwidthauto[data-v-c463eb9c] section>.mkpositionrelativedisplaygridwidthauto>.mkpositionrelativewidthautoheightauto2:disabled>.mkwidthheightemopacity {
     filter: grayscale();
     mix-blend-mode: exclusion;
     opacity: .8
 }
 
-.omfetrab.asWindow[data-v-c463eb9c] {
+.mkpositionstickydisplayflexflexDirectioncolumn.mkdisplaygridwidthheight[data-v-c463eb9c] {
     width: 100%!important;
     height: 100%!important
 }
 
-.omfetrab.asWindow>.emojis[data-v-c463eb9c] section>.body {
+.mkpositionstickydisplayflexflexDirectioncolumn.mkdisplaygridwidthheight>.mkpositionstickydisplaygridwidthauto[data-v-c463eb9c] section>.mkpositionrelativedisplaygridwidthauto {
     grid-template-columns: repeat(var(--columns), 1fr);
     font-size: 30px;
     display: grid
 }
 
-.omfetrab.asWindow>.emojis[data-v-c463eb9c] section>.body>.item {
+.mkpositionstickydisplayflexflexDirectioncolumn.mkdisplaygridwidthheight>.mkpositionstickydisplaygridwidthauto[data-v-c463eb9c] section>.mkpositionrelativedisplaygridwidthauto>.mkpositionrelativewidthautoheightauto2 {
     aspect-ratio: 1;
     width: auto;
     min-width: 0;
@@ -321,19 +321,19 @@
     padding: 0
 }
 
-.omfetrab.asWindow>.emojis[data-v-c463eb9c] section>.body>.item:disabled {
+.mkpositionstickydisplayflexflexDirectioncolumn.mkdisplaygridwidthheight>.mkpositionstickydisplaygridwidthauto[data-v-c463eb9c] section>.mkpositionrelativedisplaygridwidthauto>.mkpositionrelativewidthautoheightauto2:disabled {
     cursor: not-allowed;
     opacity: 1;
     background: linear-gradient(-45deg,#0000 0% 48%,light-dark(#00000040,#ffffff26) 48% 52%,#0000 52% 100%)
 }
 
-.omfetrab.asWindow>.emojis[data-v-c463eb9c] section>.body>.item:disabled>.emoji {
+.mkpositionstickydisplayflexflexDirectioncolumn.mkdisplaygridwidthheight>.mkpositionstickydisplaygridwidthauto[data-v-c463eb9c] section>.mkpositionrelativedisplaygridwidthauto>.mkpositionrelativewidthautoheightauto2:disabled>.mkwidthheightemopacity {
     filter: grayscale();
     mix-blend-mode: exclusion;
     opacity: .8
 }
 
-.omfetrab>.search[data-v-c463eb9c] {
+.mkpositionstickydisplayflexflexDirectioncolumn>.mkwidthfontSizeempaddingpx[data-v-c463eb9c] {
     box-sizing: border-box;
     width: 100%;
     color: var(--MI_THEME-fg);
@@ -344,43 +344,43 @@
     font-size: 1em
 }
 
-.omfetrab>.search[data-v-c463eb9c]:not(:focus):not(.filled) {
+.mkpositionstickydisplayflexflexDirectioncolumn>.mkwidthfontSizeempaddingpx[data-v-c463eb9c]:not(:focus):not(.mkmarginBottomenvSafeAreaInsetBottom0pxzIndex) {
     margin-bottom: env(safe-area-inset-bottom,0px)
 }
 
-.omfetrab>.search[data-v-c463eb9c]:not(.filled) {
+.mkpositionstickydisplayflexflexDirectioncolumn>.mkwidthfontSizeempaddingpx[data-v-c463eb9c]:not(.mkmarginBottomenvSafeAreaInsetBottom0pxzIndex) {
     z-index: 2;
     box-shadow: 0px -1px 0 0px var(--MI_THEME-divider);
     order: 1
 }
 
-.omfetrab>.tabs[data-v-c463eb9c] {
+.mkpositionstickydisplayflexflexDirectioncolumn>.mkdisplaynoneheightpx[data-v-c463eb9c] {
     display: none
 }
 
-.omfetrab>.tabs>.tab[data-v-c463eb9c] {
+.mkpositionstickydisplayflexflexDirectioncolumn>.mkdisplaynoneheightpx>.mkheightpx[data-v-c463eb9c] {
     border-top: solid .5px var(--MI_THEME-divider);
     flex: 1;
     height: 38px
 }
 
-.omfetrab>.tabs>.tab.active[data-v-c463eb9c] {
+.mkpositionstickydisplayflexflexDirectioncolumn>.mkdisplaynoneheightpx>.mkheightpx.mkborderTopsolid1pxThemecolorTheme[data-v-c463eb9c] {
     border-top: solid 1px var(--MI_THEME-accent);
     color: var(--MI_THEME-accent)
 }
 
-.omfetrab>.emojis[data-v-c463eb9c] {
+.mkpositionstickydisplayflexflexDirectioncolumn>.mkpositionstickydisplaygridwidthauto[data-v-c463eb9c] {
     scrollbar-width: none;
     height: 100%;
     overflow: hidden auto
 }
 
-.omfetrab>.emojis>.group[data-v-c463eb9c]:not(.index) {
+.mkpositionstickydisplayflexflexDirectioncolumn>.mkpositionstickydisplaygridwidthauto>.mkheightpxfontSizepxpaddingpx08px[data-v-c463eb9c]:not(.mkpaddingpx08px) {
     border-top: solid .5px var(--MI_THEME-divider);
     padding: 4px 0 8px
 }
 
-.omfetrab>.emojis>.group>header[data-v-c463eb9c] {
+.mkpositionstickydisplayflexflexDirectioncolumn>.mkpositionstickydisplaygridwidthauto>.mkheightpxfontSizepxpaddingpx08px>header[data-v-c463eb9c] {
     z-index: 2;
     height: 32px;
     padding: 0 8px;
@@ -388,7 +388,7 @@
     line-height: 32px
 }
 
-.omfetrab>.emojis[data-v-c463eb9c] section>header {
+.mkpositionstickydisplayflexflexDirectioncolumn>.mkpositionstickydisplaygridwidthauto[data-v-c463eb9c] section>header {
     z-index: 1;
     cursor: pointer;
     padding: 0 8px;
@@ -399,16 +399,16 @@
     left: 0
 }
 
-.omfetrab>.emojis[data-v-c463eb9c] section>header:hover {
+.mkpositionstickydisplayflexflexDirectioncolumn>.mkpositionstickydisplaygridwidthauto[data-v-c463eb9c] section>header:hover {
     color: var(--MI_THEME-accent)
 }
 
-.omfetrab>.emojis[data-v-c463eb9c] section>.body {
+.mkpositionstickydisplayflexflexDirectioncolumn>.mkpositionstickydisplaygridwidthauto[data-v-c463eb9c] section>.mkpositionrelativedisplaygridwidthauto {
     padding: 8px;
     position: relative
 }
 
-.omfetrab>.emojis[data-v-c463eb9c] section>.body>.config {
+.mkpositionstickydisplayflexflexDirectioncolumn>.mkpositionstickydisplaygridwidthauto[data-v-c463eb9c] section>.mkpositionrelativedisplaygridwidthauto>.mkpositionrelativewidthautoheightauto {
     width: var(--eachSize);
     height: var(--eachSize);
     contain: strict;
@@ -417,7 +417,7 @@
     position: relative
 }
 
-.omfetrab>.emojis[data-v-c463eb9c] section>.body>.item {
+.mkpositionstickydisplayflexflexDirectioncolumn>.mkpositionstickydisplaygridwidthauto[data-v-c463eb9c] section>.mkpositionrelativedisplaygridwidthauto>.mkpositionrelativewidthautoheightauto2 {
     width: var(--eachSize);
     height: var(--eachSize);
     contain: strict;
@@ -427,28 +427,28 @@
     position: relative
 }
 
-.omfetrab>.emojis[data-v-c463eb9c] section>.body>.item:hover {
+.mkpositionstickydisplayflexflexDirectioncolumn>.mkpositionstickydisplaygridwidthauto[data-v-c463eb9c] section>.mkpositionrelativedisplaygridwidthauto>.mkpositionrelativewidthautoheightauto2:hover {
     background: #0000000d
 }
 
-.omfetrab>.emojis[data-v-c463eb9c] section>.body>.item:active {
+.mkpositionstickydisplayflexflexDirectioncolumn>.mkpositionstickydisplaygridwidthauto[data-v-c463eb9c] section>.mkpositionrelativedisplaygridwidthauto>.mkpositionrelativewidthautoheightauto2:active {
     background: var(--MI_THEME-accent);
     box-shadow: inset 0 .15em .3em #1b1f2326
 }
 
-.omfetrab>.emojis[data-v-c463eb9c] section>.body>.item:disabled {
+.mkpositionstickydisplayflexflexDirectioncolumn>.mkpositionstickydisplaygridwidthauto[data-v-c463eb9c] section>.mkpositionrelativedisplaygridwidthauto>.mkpositionrelativewidthautoheightauto2:disabled {
     cursor: not-allowed;
     opacity: 1;
     background: linear-gradient(-45deg,#0000 0% 48%,light-dark(#00000040,#ffffff26) 48% 52%,#0000 52% 100%)
 }
 
-.omfetrab>.emojis[data-v-c463eb9c] section>.body>.item:disabled>.emoji {
+.mkpositionstickydisplayflexflexDirectioncolumn>.mkpositionstickydisplaygridwidthauto[data-v-c463eb9c] section>.mkpositionrelativedisplaygridwidthauto>.mkpositionrelativewidthautoheightauto2:disabled>.mkwidthheightemopacity {
     filter: grayscale();
     mix-blend-mode: exclusion;
     opacity: .8
 }
 
-.omfetrab>.emojis[data-v-c463eb9c] section>.body>.item>.emoji {
+.mkpositionstickydisplayflexflexDirectioncolumn>.mkpositionstickydisplaygridwidthauto[data-v-c463eb9c] section>.mkpositionrelativedisplaygridwidthauto>.mkpositionrelativewidthautoheightauto2>.mkwidthheightemopacity {
     vertical-align: -.25em;
     pointer-events: none;
     object-fit: contain;
@@ -456,30 +456,30 @@
     height: 1.25em
 }
 
-.omfetrab>.emojis[data-v-c463eb9c] section.result {
+.mkpositionstickydisplayflexflexDirectioncolumn>.mkpositionstickydisplaygridwidthauto[data-v-c463eb9c] section.mkdisplaynone {
     border-bottom: solid .5px var(--MI_THEME-divider)
 }
 
-.omfetrab>.emojis[data-v-c463eb9c] section.result:empty {
+.mkpositionstickydisplayflexflexDirectioncolumn>.mkpositionstickydisplaygridwidthauto[data-v-c463eb9c] section.mkdisplaynone:empty {
     display: none
 }
 
-.xwooH {
+.mkborderRadiuspx24px00 {
     border-radius: 24px 24px 0 0
 }
 
-.xCDnz,.xjnFO {
+.mkopacitytransformscale1,.mkopacitytransformscale12 {
     opacity: 1;
     transition: transform .2s cubic-bezier(.23,1,.32,1),opacity .2s cubic-bezier(.23,1,.32,1);
     transform: scale(1)
 }
 
-.xj66A,.xdzld {
+.mkopacitytransformscale75,.mkopacitytransformscale752 {
     opacity: 0;
     transform: scale(.75)
 }
 
-.xu3k3 {
+.mkpositionabsolutetextAligncenterfontSizeem {
     box-sizing: border-box;
     text-align: center;
     border: solid .5px var(--MI_THEME-divider);
@@ -491,40 +491,40 @@
     position: absolute
 }
 
-.xycT9 {
+.mktextAlignleftfontSizeem {
     text-align: left;
     font-size: .9em
 }
 
-.xdayH {
+.mkoverflowhidden {
     white-space: nowrap;
     text-overflow: ellipsis;
     line-height: 24px;
     overflow: hidden
 }
 
-.xdayH:not(:last-child) {
+.mkoverflowhidden:not(:last-child) {
     margin-bottom: 3px
 }
 
-.x3SbT {
+.mkwidthpxheightpx {
     width: 24px;
     height: 24px;
     margin-right: 3px
 }
 
-.xnojU {
+.mkdisplayflex {
     display: flex
 }
 
-.xtYVU {
+.mktextAligncenter {
     text-align: center;
     border-right: solid .5px var(--MI_THEME-divider);
     max-width: 100px;
     padding-right: 10px
 }
 
-.xunY9 {
+.mkdisplayblockwidthpxfontSizepx {
     object-fit: contain;
     width: 60px;
     max-height: 60px;
@@ -533,11 +533,11 @@
     display: block
 }
 
-.xBtQq {
+.mkfontSizeem2 {
     font-size: 1em
 }
 
-.xtB4B {
+.mktextAlignleftfontSizeemmarginpx14px010px {
     text-align: left;
     flex: 1;
     min-width: 0;
@@ -545,7 +545,7 @@
     font-size: .95em
 }
 
-.x6Dog {
+.mkdisplayflexoverflowvisible {
     white-space: nowrap;
     text-overflow: ellipsis;
     padding-top: 4px;
@@ -554,23 +554,23 @@
     overflow: visible
 }
 
-.xpkfw {
+.mkwidthpxheightpx2 {
     width: 24px;
     height: 24px;
     margin-right: 3px
 }
 
-.xmmt5 {
+.mkpaddingToppx {
     padding-top: 4px
 }
 
-.xCPfz {
+.mkdisplayflexalignItemsbaseline {
     white-space: nowrap;
     align-items: baseline;
     display: flex
 }
 
-.xngrp {
+.mkdisplayblockoverflowhiddenfontSizeem {
     text-overflow: ellipsis;
     flex-shrink: 1;
     margin: 0 .5em 0 0;
@@ -582,11 +582,11 @@
     overflow: hidden
 }
 
-.xngrp:hover {
+.mkdisplayblockoverflowhiddenfontSizeem:hover {
     text-decoration: underline
 }
 
-.xEKlD {
+.mkfontSizeborderRadiuspxpaddingpx6px {
     border: solid .5px var(--MI_THEME-divider);
     border-radius: 3px;
     flex-shrink: 0;
@@ -596,40 +596,40 @@
     font-size: 80%
 }
 
-.xBLVI {
+.mkoverflowhiddenmarginem00 {
     text-overflow: ellipsis;
     flex-shrink: 10000000;
     margin: 0 .5em 0 0;
     overflow: hidden
 }
 
-.xAtlm {
+.mkfontSizeem3 {
     flex-shrink: 0;
     margin-left: auto;
     font-size: .9em
 }
 
-.x5vC9 {
+.mkmarginem00 {
     margin: 0 .5em 0 0
 }
 
-.xks9Y {
+.mkheightem {
     vertical-align: -20%;
     height: 1.3em
 }
 
-.xks9Y+.xks9Y {
+.mkheightem+.mkheightem {
     margin-left: .2em
 }
 
-.xnlnd {
+.mkwidthoverflowclipborderRadiuspx {
     border-radius: 4px;
     width: 100%;
     margin-top: 4px;
     overflow: clip
 }
 
-.xhOcC,.xaXVa {
+.mkdisplayflexalignItemscenterfontSizepx,.mkdisplayflexalignItemscenterfontSizepx2 {
     white-space: nowrap;
     align-items: center;
     padding: 8px 12px;
@@ -637,35 +637,35 @@
     display: flex
 }
 
-.xaXVa {
+.mkdisplayflexalignItemscenterfontSizepx2 {
     color: #fff;
     background: #111
 }
 
-.xhZFh {
+.mkoverflowclipborderRadiuspx {
     border-radius: 8px;
     overflow: clip
 }
 
-.xfgXW {
+.mkpositionrelativeoverflowclip {
     position: relative;
     overflow: clip;
     container-type: inline-size
 }
 
-.xfgXW:focus-visible {
+.mkpositionrelativeoverflowclip:focus-visible {
     outline: none
 }
 
-.xfgXW:hover .xCnKk {
+.mkpositionrelativeoverflowclip:hover .mkdisplaygridwidthpxheightpx {
     scale: 1.2
 }
 
-.xutdY {
+.mkpositionrelativewidthheight {
     position: relative
 }
 
-.xutdY:after {
+.mkpositionrelativewidthheight:after {
     content: "";
     pointer-events: none;
     border-radius: inherit;
@@ -677,7 +677,7 @@
     left: 0
 }
 
-.xtlBI {
+.mkdisplayflexalignItemscenterjustifyContentcenter {
     width: 100%;
     height: 100%;
     font: inherit;
@@ -692,20 +692,20 @@
     display: flex
 }
 
-.xri4E {
+.mktextAligncenterfontSizeem {
     text-align: center;
     color: #fff;
     font-size: .8em
 }
 
-.xiOPd {
+.mkpositionrelativewidthheight2 {
     object-fit: contain;
     width: 100%;
     height: 100%;
     position: relative
 }
 
-.xvKua {
+.mkpositionrelativewidthmin100cqw177778cqhheightauto {
     aspect-ratio: 16/9;
     pointer-events: none;
     width: min(100cqw,177.778cqh);
@@ -713,7 +713,7 @@
     position: relative
 }
 
-.xCXJJ {
+.mkpositionabsolutewidthheight {
     pointer-events: none;
     width: 100%;
     height: 100%;
@@ -723,7 +723,7 @@
     left: 0
 }
 
-.xxhAB {
+.mkpositionabsolutefontSizeem {
     -webkit-user-select: none;
     user-select: none;
     pointer-events: none;
@@ -733,7 +733,7 @@
     left: 12px
 }
 
-.xewOs {
+.mkpositionabsolutedisplaygridwidth {
     place-items: center;
     width: 100%;
     height: 100%;
@@ -743,7 +743,7 @@
     left: 0
 }
 
-.xCnKk {
+.mkdisplaygridwidthpxheightpx {
     background: var(--MI_THEME-accent);
     width: 50px;
     height: 50px;
@@ -756,7 +756,7 @@
     scale: 1
 }
 
-.xrz5j {
+.mkpositionabsolutedisplayblockwidthpx {
     backdrop-filter: var(--MI-blur,blur(15px));
     color: #fff;
     text-align: center;
@@ -768,46 +768,46 @@
     position: absolute
 }
 
-.xlqFw {
+.mkborderRadiuspx0 {
     border-radius: 8px 0;
     bottom: 0;
     right: 0
 }
 
-.xlV7y {
+.mkborderRadiuspx {
     border-radius: 0 8px;
     top: 0;
     right: 0
 }
 
-.x9KMt {
+.mkpositionabsolute2 {
     position: absolute;
     top: 0;
     left: 0
 }
 
-.xEFF2 {
+.mkpositionrelativewidthheight3 {
     width: 100%;
     height: 100%;
     position: relative
 }
 
-.xEFF2.x2pHm>.x4Rm8,.xEFF2.x2pHm>.xkJBF {
+.mkpositionrelativewidthheight3.mkobjectFitcover>.mkdisplayblockwidthheight,.mkpositionrelativewidthheight3.mkobjectFitcover>.mkdisplayblockwidthheight2 {
     object-fit: cover
 }
 
-.x4Rm8,.xkJBF {
+.mkdisplayblockwidthheight,.mkdisplayblockwidthheight2 {
     object-fit: contain;
     width: 100%;
     height: 100%;
     display: block
 }
 
-.xuA87,.xihe4 {
+.mkpositionrelative,.mkpositionrelativewidthheight4 {
     position: relative
 }
 
-.xihe4:after {
+.mkpositionrelativewidthheight4:after {
     content: "";
     pointer-events: none;
     border-radius: inherit;
@@ -819,7 +819,7 @@
     left: 0
 }
 
-.xmylE {
+.mkpositionabsolutedisplayflexalignItemscenter {
     z-index: 1;
     cursor: pointer;
     justify-content: center;
@@ -832,30 +832,30 @@
     left: 0
 }
 
-.xBp91 {
+.mkdisplaytableCelltextAligncenterfontSizeem {
     text-align: center;
     color: #fff;
     font-size: .8em;
     display: table-cell
 }
 
-.xnU59 {
+.mkpositionrelative2 {
     background: var(--MI_THEME-bg);
     background-size: 16px 16px;
     position: relative
 }
 
-html[data-color-scheme=dark] .xnU59 {
+html[data-color-scheme=dark] .mkpositionrelative2 {
     --c: #ffffff05;
     background-image: linear-gradient(45deg, var(--c) 16.67%, var(--MI_THEME-bg) 16.67%, var(--MI_THEME-bg) 50%, var(--c) 50%, var(--c) 66.67%, var(--MI_THEME-bg) 66.67%, var(--MI_THEME-bg) 100%)
 }
 
-html[data-color-scheme=light] .xnU59 {
+html[data-color-scheme=light] .mkpositionrelative2 {
     --c: #00000005;
     background-image: linear-gradient(45deg, var(--c) 16.67%, var(--MI_THEME-bg) 16.67%, var(--MI_THEME-bg) 50%, var(--c) 50%, var(--c) 66.67%, var(--MI_THEME-bg) 66.67%, var(--MI_THEME-bg) 100%)
 }
 
-.xEvDK {
+.mkpositionabsolutedisplayblockwidthpx2 {
     backdrop-filter: var(--MI-blur,blur(15px));
     color: #fff;
     text-align: center;
@@ -867,19 +867,19 @@ html[data-color-scheme=light] .xnU59 {
     position: absolute
 }
 
-.xaR9a {
+.mkborderRadiuspx02 {
     border-radius: 8px 0;
     bottom: 0;
     right: 0
 }
 
-.x5yfI {
+.mkborderRadiuspx2 {
     border-radius: 0 8px;
     top: 0;
     right: 0
 }
 
-.xcKaF {
+.mkdisplayblockwidthheight3 {
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: contain;
@@ -889,7 +889,7 @@ html[data-color-scheme=light] .xnU59 {
     overflow: hidden
 }
 
-.x4RFf {
+.mkpositionabsolutedisplayinlineFlexopacity {
     pointer-events: none;
     opacity: .5;
     gap: 6px;
@@ -899,7 +899,7 @@ html[data-color-scheme=light] .xnU59 {
     left: 10px
 }
 
-.xt7Nj {
+.mkdisplayinlineBlockfontSizeemborderRadiuspx {
     color: hsl(from var(--MI_THEME-accent) h s calc(l + 10));
     background-color: #000;
     border-radius: 6px;
@@ -909,7 +909,7 @@ html[data-color-scheme=light] .xnU59 {
     display: inline-block
 }
 
-.x4osn {
+.mkdisplayblockwidthheight4 {
     object-fit: contain;
     object-position: center;
     width: 100%;
@@ -917,25 +917,25 @@ html[data-color-scheme=light] .xnU59 {
     display: block
 }
 
-.xrCid {
+.mkpositionrelativeoverflowclip2 {
     position: relative;
     overflow: clip;
     container-type: inline-size
 }
 
-.xrCid:focus-visible {
+.mkpositionrelativeoverflowclip2:focus-visible {
     outline: none
 }
 
-.xrCid:hover .xqe4s {
+.mkpositionrelativeoverflowclip2:hover .mkdisplaygridwidthpxheightpx2 {
     scale: 1.2
 }
 
-.xsf0q {
+.mkpositionrelativewidthheight5 {
     position: relative
 }
 
-.xsf0q:after {
+.mkpositionrelativewidthheight5:after {
     content: "";
     pointer-events: none;
     border-radius: inherit;
@@ -947,7 +947,7 @@ html[data-color-scheme=light] .xnU59 {
     left: 0
 }
 
-.xrG87 {
+.mkdisplayflexalignItemscenterjustifyContentcenter2 {
     width: 100%;
     height: 100%;
     font: inherit;
@@ -962,13 +962,13 @@ html[data-color-scheme=light] .xnU59 {
     display: flex
 }
 
-.xose6 {
+.mktextAligncenterfontSizeem2 {
     text-align: center;
     color: #fff;
     font-size: .8em
 }
 
-.x1mBH {
+.mkpositionrelativewidthheight6 {
     object-fit: contain;
     background: #000;
     width: 100%;
@@ -976,14 +976,14 @@ html[data-color-scheme=light] .xnU59 {
     position: relative
 }
 
-.xgOc8 {
+.mkdisplayblockwidthheight5 {
     object-fit: contain;
     width: 100%;
     height: 100%;
     display: block
 }
 
-.x2VIu {
+.mkpositionabsolutedisplaygridwidth2 {
     place-items: center;
     width: 100%;
     height: 100%;
@@ -993,7 +993,7 @@ html[data-color-scheme=light] .xnU59 {
     left: 0
 }
 
-.xqe4s {
+.mkdisplaygridwidthpxheightpx2 {
     background: var(--MI_THEME-accent);
     width: 50px;
     height: 50px;
@@ -1006,7 +1006,7 @@ html[data-color-scheme=light] .xnU59 {
     scale: 1
 }
 
-.xzKaU {
+.mkpositionabsolutedisplayblockwidthpx3 {
     backdrop-filter: var(--MI-blur,blur(15px));
     color: #fff;
     text-align: center;
@@ -1018,100 +1018,100 @@ html[data-color-scheme=light] .xnU59 {
     position: absolute
 }
 
-.xeArL {
+.mkborderRadiuspx03 {
     border-radius: 8px 0;
     bottom: 0;
     right: 0
 }
 
-.xwu47 {
+.mkborderRadiuspx3 {
     border-radius: 0 8px;
     top: 0;
     right: 0
 }
 
-.xoVka {
+.mkcontainerTypeinlineSize {
     container-type: inline-size
 }
 
-.xbIzI {
+.mkpositionrelativewidth {
     width: 100%;
     position: relative
 }
 
-.xutAY {
+.mkdisplaygridwidthheight2 {
     grid-gap: 8px;
     width: 100%;
     height: 100%;
     display: grid
 }
 
-.xutAY.xsfFg {
+.mkdisplaygridwidthheight2.mkgridTemplateRowsfrminHeightpx {
     grid-template-rows: 1fr;
     min-height: 64px;
     max-height: clamp(64px,50cqh,min(360px,50vh))
 }
 
-.xutAY.xsfFg.xkfNk {
+.mkdisplaygridwidthheight2.mkgridTemplateRowsfrminHeightpx.mkminHeightinitialmaxHeightinitial {
     min-height: initial;
     max-height: initial;
     aspect-ratio: 16/9
 }
 
-.xutAY.xsfFg.xrbFI {
+.mkdisplaygridwidthheight2.mkgridTemplateRowsfrminHeightpx.mkminHeightinitialmaxHeightinitial2 {
     min-height: initial;
     max-height: initial;
     aspect-ratio: 1
 }
 
-.xutAY.xsfFg.x7QUJ {
+.mkdisplaygridwidthheight2.mkgridTemplateRowsfrminHeightpx.mkminHeightinitialmaxHeightinitial3 {
     min-height: initial;
     max-height: initial;
     aspect-ratio: 2/3
 }
 
-.xutAY.xihRJ {
+.mkdisplaygridwidthheight2.mkaspectRatiogridTemplateRowsfr {
     aspect-ratio: 16/9;
     grid-template-rows: 1fr;
     grid-template-columns: 1fr 1fr
 }
 
-.xutAY.xCjAS {
+.mkdisplaygridwidthheight2.mkaspectRatiogridTemplateRowsfr1fr {
     aspect-ratio: 16/9;
     grid-template-rows: 1fr 1fr;
     grid-template-columns: 1fr .5fr
 }
 
-.xutAY.xCjAS>.xesxE:first-child {
+.mkdisplaygridwidthheight2.mkaspectRatiogridTemplateRowsfr1fr>.mkoverflowhiddenborderRadiuspxcursorzoomIn:first-child {
     grid-row: 1/3
 }
 
-.xutAY.xCjAS>.xesxE:nth-child(3) {
+.mkdisplaygridwidthheight2.mkaspectRatiogridTemplateRowsfr1fr>.mkoverflowhiddenborderRadiuspxcursorzoomIn:nth-child(3) {
     grid-area: 2/2/3/3
 }
 
-.xutAY.xqN41 {
+.mkdisplaygridwidthheight2.mkaspectRatiogridTemplateRowsfr1fr2 {
     aspect-ratio: 16/9;
     grid-template-rows: 1fr 1fr;
     grid-template-columns: 1fr 1fr
 }
 
-.xutAY.xCVRx {
+.mkdisplaygridwidthheight2.mkgridTemplateColumnsfr1fraspectRatio {
     grid-template-columns: 1fr 1fr
 }
 
-.xutAY.xCVRx>.xesxE {
+.mkdisplaygridwidthheight2.mkgridTemplateColumnsfr1fraspectRatio>.mkoverflowhiddenborderRadiuspxcursorzoomIn {
     aspect-ratio: 16/9
 }
 
-.xesxE {
+.mkoverflowhiddenborderRadiuspxcursorzoomIn {
     cursor: zoom-in;
     border-radius: 8px;
     overflow: hidden
 }
 
 @container (width>=500px) {
-    .xutAY.xoe1b {
+    .mkdisplaygridwidthheight2.mkdisplaygrid {
         aspect-ratio: auto;
         grid-gap: 8px;
         grid-template-rows: auto;
@@ -1119,19 +1119,19 @@ html[data-color-scheme=light] .xnU59 {
         display: grid
     }
 
-    .xutAY.xoe1b>.xesxE {
+    .mkdisplaygridwidthheight2.mkdisplaygrid>.mkoverflowhiddenborderRadiuspxcursorzoomIn {
         aspect-ratio: 1
     }
 }
 
-.xeybi {
+.mkdisplayblockpaddingmargin {
     margin: 0;
     padding: 0;
     list-style: none;
     display: block
 }
 
-.xeGSn {
+.mkpositionrelativedisplayblockoverflowclip {
     background: var(--MI_THEME-accentedBg);
     cursor: pointer;
     border-radius: 4px;
@@ -1142,7 +1142,7 @@ html[data-color-scheme=light] .xnU59 {
     overflow: clip
 }
 
-.x7SOO {
+.mkpositionabsoluteheight {
     background: var(--MI_THEME-accent);
     background: linear-gradient(90deg, var(--MI_THEME-buttonGradateA), var(--MI_THEME-buttonGradateB));
     height: 100%;
@@ -1152,7 +1152,7 @@ html[data-color-scheme=light] .xnU59 {
     left: 0
 }
 
-.xrXMJ {
+.mkpositionrelativedisplayinlineBlockborderRadiuspx {
     background: var(--MI_THEME-panel);
     border-radius: 3px;
     padding: 3px 5px;
@@ -1160,25 +1160,25 @@ html[data-color-scheme=light] .xnU59 {
     position: relative
 }
 
-.xyDwL {
+.mkcolorTheme {
     color: var(--MI_THEME-fg)
 }
 
-.x2CfQ .xeGSn {
+.mkcursorinitial .mkpositionrelativedisplayblockoverflowclip {
     cursor: initial
 }
 
-.xpUJO {
+.mkpositionrelativedisplayblockwidth {
     overflow-wrap: break-word
 }
 
-.xpUJO.xmj6Q {
+.mkpositionrelativedisplayblockwidth.mkpositionrelativedisplayblockwidth2 {
     max-height: 9em;
     position: relative;
     overflow: clip
 }
 
-.xpUJO.xmj6Q>.xnQD5 {
+.mkpositionrelativedisplayblockwidth.mkpositionrelativedisplayblockwidth2>.mkpositionabsolutedisplayblockwidth {
     background: linear-gradient(0deg, var(--MI_THEME-panel), color(from var(--MI_THEME-panel) srgb r g b/0));
     width: 100%;
     height: 64px;
@@ -1188,7 +1188,7 @@ html[data-color-scheme=light] .xnU59 {
     left: 0
 }
 
-.xpUJO.xmj6Q>.xnQD5>.xzqug {
+.mkpositionrelativedisplayblockwidth.mkpositionrelativedisplayblockwidth2>.mkpositionabsolutedisplayblockwidth>.mkdisplayinlineBlockfontSizeemborderRadiuspx2 {
     background: var(--MI_THEME-panel);
     border-radius: 999px;
     padding: 6px 10px;
@@ -1197,29 +1197,29 @@ html[data-color-scheme=light] .xnU59 {
     box-shadow: 0 2px 6px #0003
 }
 
-.xpUJO.xmj6Q>.xnQD5:hover>.xzqug {
+.mkpositionrelativedisplayblockwidth.mkpositionrelativedisplayblockwidth2>.mkpositionabsolutedisplayblockwidth:hover>.mkdisplayinlineBlockfontSizeemborderRadiuspx2 {
     background: var(--MI_THEME-panelHighlight)
 }
 
-.x8ivL {
+.mkcolorThememarginRightpx {
     color: var(--MI_THEME-accent);
     margin-right: 6px
 }
 
-.xgLl8 {
+.mkcolorThememarginLeftpx {
     color: var(--MI_THEME-renote);
     margin-left: 4px;
     font-style: oblique
 }
 
-.xtAtd {
+.mkpositionstickywidth {
     width: 100%;
     bottom: calc(var(--MI-stickyBottom,0px) + 14px);
     margin-top: 14px;
     position: sticky
 }
 
-.xik0L {
+.mkdisplayinlineBlockfontSizeemborderRadiuspx3 {
     background: var(--MI_THEME-popup);
     border-radius: 999px;
     padding: 6px 10px;
@@ -1228,34 +1228,34 @@ html[data-color-scheme=light] .xnU59 {
     box-shadow: 0 2px 6px #0003
 }
 
-.x4iKD {
+.mkmarginLeftpxcontent {
     margin-left: 4px
 }
 
-.x4iKD:before {
+.mkmarginLeftpxcontent:before {
     content: "("
 }
 
-.x4iKD:after {
+.mkmarginLeftpxcontent:after {
     content: ")"
 }
 
-.xD2mX {
+.mkpositionrelativefontSizeempaddingpx32px {
     padding: 16px 32px;
     font-size: .9em;
     position: relative
 }
 
-.xD2mX.x4kQA {
+.mkpositionrelativefontSizeempaddingpx32px.mkfontSizeempaddingpx0016px {
     padding: 10px 0 0 16px;
     font-size: 1em
 }
 
-.x3YLY {
+.mkdisplayflex2 {
     display: flex
 }
 
-.xq0fT {
+.mkpositionabsolutewidthpxheightcalc1008px {
     pointer-events: none;
     border-radius: 999px;
     width: 5px;
@@ -1265,7 +1265,7 @@ html[data-color-scheme=light] .xnU59 {
     left: 8px
 }
 
-.xAnvZ {
+.mkdisplayblockwidthpxheightpx {
     border-radius: 8px;
     flex-shrink: 0;
     width: 38px;
@@ -1274,16 +1274,16 @@ html[data-color-scheme=light] .xnU59 {
     display: block
 }
 
-.x3COt {
+.mkflexminWidth {
     flex: 1;
     min-width: 0
 }
 
-.xbanO {
+.mkmarginBottompx {
     margin-bottom: 2px
 }
 
-.xpfPt {
+.mkdisplayblockcursordefaultpadding {
     cursor: default;
     overflow-wrap: break-word;
     margin: 0;
@@ -1291,31 +1291,31 @@ html[data-color-scheme=light] .xnU59 {
     display: block
 }
 
-.x37Ma {
+.mkpaddingmargin {
     margin: 0;
     padding: 0
 }
 
-.x7J6A,.xyLO6 {
+.mkborderLeftsolid5pxThememarginToppx,.mkpaddingpx0016px {
     border-left: solid .5px var(--MI_THEME-divider);
     margin-top: 10px
 }
 
-.xyLO6 {
+.mkpaddingpx0016px {
     padding: 10px 0 0 16px
 }
 
 @container (width<=450px) {
-    .xD2mX {
+    .mkpositionrelativefontSizeempaddingpx32px {
         padding: 14px 16px
     }
 
-    .xD2mX.x4kQA {
+    .mkpositionrelativefontSizeempaddingpx32px.mkfontSizeempaddingpx0016px {
         padding: 10px 0 0 8px
     }
 }
 
-.xs9Pb {
+.mktextAligncenterborderRadiuspxpaddingpx {
     text-align: center;
     border: 1px solid var(--MI_THEME-divider);
     border-radius: 8px;
@@ -1323,7 +1323,7 @@ html[data-color-scheme=light] .xnU59 {
     padding: 8px!important
 }
 
-.xtIQK {
+.mktextAligncenterborderRadiuspxpaddingpx2 {
     text-align: center;
     --color: light-dark(#0000000d,#00000026);
     background-size: auto;
@@ -1333,14 +1333,14 @@ html[data-color-scheme=light] .xnU59 {
     padding: 8px!important
 }
 
-.xynJn {
+.mkdisplayflexfontSizeempadding {
     margin: 0;
     padding: 0;
     font-size: .95em;
     display: flex
 }
 
-.xCcjq {
+.mkpositionstickydisplayblockwidthpx {
     border-radius: 8px;
     flex-shrink: 0;
     width: 34px;
@@ -1349,22 +1349,22 @@ html[data-color-scheme=light] .xnU59 {
     display: block
 }
 
-.xCcjq.x9fsB {
+.mkpositionstickydisplayblockwidthpx.mkpositionsticky {
     top: calc(16px + var(--MI-stickyTop,0px));
     left: 0;
     position: sticky!important
 }
 
-.xfZLP {
+.mkflexminWidth2 {
     flex: 1;
     min-width: 0
 }
 
-.xhuTd {
+.mkmarginBottompx2 {
     margin-bottom: 2px
 }
 
-.xDYPO {
+.mkdisplayblockcursordefaultpadding2 {
     cursor: default;
     overflow-wrap: break-word;
     margin: 0;
@@ -1372,14 +1372,14 @@ html[data-color-scheme=light] .xnU59 {
     display: block
 }
 
-.xpf5j {
+.mkcursordefaultpaddingmargin {
     cursor: default;
     margin: 0;
     padding: 0
 }
 
 @container (width>=250px) {
-    .xCcjq {
+    .mkpositionstickydisplayblockwidthpx {
         width: 40px;
         height: 40px;
         margin: 0 10px 0 0
@@ -1387,7 +1387,7 @@ html[data-color-scheme=light] .xnU59 {
 }
 
 @container (width>=350px) {
-    .xCcjq {
+    .mkpositionstickydisplayblockwidthpx {
         width: 44px;
         height: 44px;
         margin: 0 10px 0 0
@@ -1395,14 +1395,14 @@ html[data-color-scheme=light] .xnU59 {
 }
 
 @container (width>=500px) {
-    .xCcjq {
+    .mkpositionstickydisplayblockwidthpx {
         width: 48px;
         height: 48px;
         margin: 0 12px 0 0
     }
 }
 
-.xAM8V {
+.mktextAligncenterborderRadiuspxpaddingpx3 {
     text-align: center;
     --color: light-dark(#0000000d,#00000026);
     background-size: auto;
@@ -1411,7 +1411,7 @@ html[data-color-scheme=light] .xnU59 {
     padding: 8px!important
 }
 
-.xEAqs {
+.mkdisplayflexflexDirectioncolumnheightcalc100dvh30px {
     contain: content;
     border-radius: var(--MI-radius);
     --root-margin: 24px;
@@ -1424,44 +1424,44 @@ html[data-color-scheme=light] .xnU59 {
 }
 
 @media (width<=500px) {
-    .xEAqs {
+    .mkdisplayflexflexDirectioncolumnheightcalc100dvh30px {
         --root-margin: 16px
     }
 }
 
-.xEAqs.xeELt {
+.mkdisplayflexflexDirectioncolumnheightcalc100dvh30px.mkheightcalc100dvh30pxborderRadius {
     border-radius: 0;
     height: calc(100dvh - 30px)
 }
 
-.xEAqs.xeELt .xlH8n {
+.mkdisplayflexflexDirectioncolumnheightcalc100dvh30px.mkheightcalc100dvh30pxborderRadius .mkoverflowauto {
     padding-bottom: env(safe-area-inset-bottom,0px)
 }
 
-.xEAqs.xeELt .xojf0 {
+.mkdisplayflexflexDirectioncolumnheightcalc100dvh30px.mkheightcalc100dvh30pxborderRadius .mkoverflowautopaddingpx16px {
     padding-bottom: max(12px, env(safe-area-inset-bottom,0px))
 }
 
-.xbAsX {
+.mkdisplayflex3 {
     background: var(--MI_THEME-windowHeader);
     backdrop-filter: var(--MI-blur,blur(15px));
     flex-shrink: 0;
     display: flex
 }
 
-.x8VpB {
+.mkwidthThemeheightTheme {
     height: var(--MI_THEME-headerHeight);
     width: var(--MI_THEME-headerHeight)
 }
 
 @media (width<=500px) {
-    .x8VpB {
+    .mkwidthThemeheightTheme {
         height: var(--MI_THEME-headerHeightNarrow);
         width: var(--MI_THEME-headerHeightNarrow)
     }
 }
 
-.xDxWK {
+.mkoverflowhidden2 {
     line-height: var(--MI_THEME-headerHeight);
     white-space: nowrap;
     text-overflow: ellipsis;
@@ -1473,54 +1473,54 @@ html[data-color-scheme=light] .xnU59 {
 }
 
 @media (width<=500px) {
-    .xDxWK {
+    .mkoverflowhidden2 {
         line-height: var(--MI_THEME-headerHeightNarrow);
         padding-left: 16px
     }
 }
 
-.x8VpB+.xDxWK {
+.mkwidthThemeheightTheme+.mkoverflowhidden2 {
     padding-left: 0
 }
 
-.xlH8n {
+.mkoverflowauto {
     background: var(--MI_THEME-bg);
     flex: 1;
     overflow: auto;
     container-type: size
 }
 
-.xojf0 {
+.mkoverflowautopaddingpx16px {
     background: var(--MI_THEME-bg);
     border-top: 1px solid var(--MI_THEME-divider);
     padding: 12px 16px;
     overflow: auto
 }
 
-.x5Eyz.xpgKk {
+.mkdisplayflexwidthoverflowhidden.mkdisplayflexwidthoverflowhidden2 {
     display: flex
 }
 
-.x5Eyz.xpgKk .xzSZ0 {
+.mkdisplayflexwidthoverflowhidden.mkdisplayflexwidthoverflowhidden2 .mkwidthfontSizeemopacity {
     width: 30%;
     padding: 0 8px 0 0;
     font-size: 1em
 }
 
-.x5Eyz.xpgKk .xrVvR {
+.mkdisplayflexwidthoverflowhidden.mkdisplayflexwidthoverflowhidden2 .mkwidthoverflowhidden {
     white-space: nowrap;
     text-overflow: ellipsis;
     width: 70%;
     overflow: hidden
 }
 
-.xzSZ0 {
+.mkwidthfontSizeemopacity {
     opacity: .75;
     padding: 0 0 .25em;
     font-size: .85em
 }
 
-.x1aDf {
+.mkheightcqhborderRadiusThememarginauto {
     border-radius: var(--MI-radius);
     background-image: repeating-linear-gradient(45deg,#0000,#0000 8px,light-dark(#0000000d,#ffffff0d) 8px 14px);
     max-width: 100%;
@@ -1529,13 +1529,13 @@ html[data-color-scheme=light] .xnU59 {
     overflow-y: hidden
 }
 
-.xlHld {
+.mkdisplayflex4 {
     flex-wrap: wrap;
     gap: 3px;
     display: flex
 }
 
-.x6O1I {
+.mkdisplayinlineBlockborderRadiusThemepaddingpx10px {
     word-break: break-all;
     border: solid 1px var(--MI_THEME-divider);
     border-radius: var(--MI-radius);
@@ -1544,14 +1544,14 @@ html[data-color-scheme=light] .xnU59 {
     display: inline-block
 }
 
-.xCquH {
+.mkpositionfixedwidthpxheightpx2 {
     pointer-events: none;
     width: 128px;
     height: 128px;
     position: fixed
 }
 
-.xn1vP {
+.mkpositionabsolutedisplayblockheightem {
     text-align: center;
     height: 1em;
     color: var(--MI_THEME-accent);
@@ -1566,12 +1566,12 @@ html[data-color-scheme=light] .xnU59 {
     transform: translateY(-30px)
 }
 
-.xn1vP.xa9Kg {
+.mkpositionabsolutedisplayblockheightem.mkopacitytransformtranslatey50pxRotatezTheme {
     opacity: 0;
     transform: translateY(-50px) rotateZ(var(--a9b327ca))
 }
 
-.xDRXD {
+.mkdisplayinlineFlexalignItemscenterjustifyContentcenter {
     border-radius: 6px;
     justify-content: center;
     align-items: center;
@@ -1581,95 +1581,95 @@ html[data-color-scheme=light] .xnU59 {
     display: inline-flex
 }
 
-.xDRXD.xhTzr {
+.mkdisplayinlineFlexalignItemscenterjustifyContentcenter.mkcursordefault {
     background: var(--MI_THEME-buttonBg)
 }
 
-.xDRXD.xhTzr:hover {
+.mkdisplayinlineFlexalignItemscenterjustifyContentcenter.mkcursordefault:hover {
     background: #0000001a
 }
 
-.xDRXD:not(.xhTzr) {
+.mkdisplayinlineFlexalignItemscenterjustifyContentcenter:not(.mkcursordefault) {
     cursor: default
 }
 
-.xDRXD.xqToC {
+.mkdisplayinlineFlexalignItemscenterjustifyContentcenter.mkheightpxfontSizeemborderRadiuspx {
     border-radius: 4px;
     height: 32px;
     font-size: 1em
 }
 
-.xDRXD.xqToC>.xDpSv {
+.mkdisplayinlineFlexalignItemscenterjustifyContentcenter.mkheightpxfontSizeemborderRadiuspx>.mkfontSizeemmarginpx {
     font-size: .9em;
     line-height: 32px
 }
 
-.xDRXD.x1RtL {
+.mkdisplayinlineFlexalignItemscenterjustifyContentcenter.mkheightpxfontSizeemborderRadiuspx2 {
     border-radius: 8px;
     height: 52px;
     font-size: 2em
 }
 
-.xDRXD.x1RtL>.xDpSv {
+.mkdisplayinlineFlexalignItemscenterjustifyContentcenter.mkheightpxfontSizeemborderRadiuspx2>.mkfontSizeemmarginpx {
     font-size: .6em;
     line-height: 52px
 }
 
-.xDRXD.x9Z4v,.xDRXD.x9Z4v:hover {
+.mkdisplayinlineFlexalignItemscenterjustifyContentcenter.mkbackgroundThemecolorTheme,.mkdisplayinlineFlexalignItemscenterjustifyContentcenter.mkbackgroundThemecolorTheme:hover {
     background: var(--MI_THEME-accentedBg);
     color: var(--MI_THEME-accent);
     box-shadow: 0 0 0 1px var(--MI_THEME-accent) inset
 }
 
-.xDRXD.x9Z4v>.xDpSv,.xDRXD.x9Z4v:hover>.xDpSv {
+.mkdisplayinlineFlexalignItemscenterjustifyContentcenter.mkbackgroundThemecolorTheme>.mkfontSizeemmarginpx,.mkdisplayinlineFlexalignItemscenterjustifyContentcenter.mkbackgroundThemecolorTheme:hover>.mkfontSizeemmarginpx {
     color: var(--MI_THEME-accent)
 }
 
-.xDRXD.x9Z4v>.x9Io4,.xDRXD.x9Z4v:hover>.x9Io4 {
+.mkdisplayinlineFlexalignItemscenterjustifyContentcenter.mkbackgroundThemecolorTheme>.mkfilterdropShadow002px00000080,.mkdisplayinlineFlexalignItemscenterjustifyContentcenter.mkbackgroundThemecolorTheme:hover>.mkfilterdropShadow002px00000080 {
     filter: drop-shadow(0 0 2px #00000080)
 }
 
-.xlm2r {
+.mkobjectFitcontainmaxWidthpx {
     object-fit: contain;
     max-width: 70px
 }
 
-.xDpSv {
+.mkfontSizeemmarginpx {
     margin: 0 0 0 4px;
     font-size: .7em;
     line-height: 42px
 }
 
-.xpncO,.xAfX0,.xpbCy {
+.mktransitionopacity2sCubicBezier0551Transform2sCubicBezier0551,.mktransitionopacity2sCubicBezier0551Transform2sCubicBezier05512,.mkpositionabsolute3 {
     transition: opacity .2s cubic-bezier(0,.5,.5,1),transform .2s cubic-bezier(0,.5,.5,1)!important
 }
 
-.xkpzU,.x6Ovb {
+.mkopacitytransformscale7,.mkopacitytransformscale72 {
     opacity: 0;
     transform: scale(.7)
 }
 
-.xpbCy {
+.mkpositionabsolute3 {
     position: absolute
 }
 
-.xlT1y {
+.mkdisplayflexalignItemscenter {
     flex-wrap: wrap;
     align-items: center;
     gap: 4px;
     display: flex
 }
 
-.xlT1y:empty {
+.mkdisplayflexalignItemscenter:empty {
     display: none
 }
 
-.xBA01 {
+.mkpositionrelativewidth2 {
     width: 100%;
     position: relative
 }
 
-.xdv7t {
+.mkpositionabsolutewidthemheightem {
     width: 1.5em;
     height: 1.5em;
     color: var(--MI_THEME-fg);
@@ -1683,11 +1683,11 @@ html[data-color-scheme=light] .xnU59 {
     right: 0
 }
 
-.xdv7t:hover {
+.mkpositionabsolutewidthemheightem:hover {
     opacity: .9
 }
 
-.xhXT7 {
+.mkpositionabsolutewidthheight2 {
     width: 100%;
     height: 100%;
     position: absolute;
@@ -1695,7 +1695,7 @@ html[data-color-scheme=light] .xnU59 {
     left: 0
 }
 
-.xlXwJ {
+.mkpositionrelativedisplayblockwidthpx {
     box-shadow: 0 0 0 1px var(--MI_THEME-divider);
     text-align: left;
     border-radius: 8px;
@@ -1705,22 +1705,22 @@ html[data-color-scheme=light] .xnU59 {
     overflow: clip
 }
 
-.xlXwJ:hover {
+.mkpositionrelativedisplayblockwidthpx:hover {
     border-color: #0003;
     text-decoration: none
 }
 
-.xlXwJ:hover>.xo52c>.xfNOp>.xgWab {
+.mkpositionrelativedisplayblockwidthpx:hover>.mkpositionrelativewidthcalc100100pxoverflowhidden>.mkoverflowhidden3>.mkoverflowhiddenfontSizeemmargin {
     text-decoration: underline
 }
 
-.xlXwJ.x4Jn8>.xo52c>.xfNOp .xgWab,.xlXwJ.x4Jn8>.xo52c .xbyHy,.xlXwJ.x4Jn8>.xo52c .xv626 {
+.mkpositionrelativedisplayblockwidthpx.mkpositionabsolutewidthpxheight>.mkpositionrelativewidthcalc100100pxoverflowhidden>.mkoverflowhidden3 .mkoverflowhiddenfontSizeemmargin,.mkpositionrelativedisplayblockwidthpx.mkpositionabsolutewidthpxheight>.mkpositionrelativewidthcalc100100pxoverflowhidden .mkoverflowhiddenfontSizeemmargin2,.mkpositionrelativedisplayblockwidthpx.mkpositionabsolutewidthpxheight>.mkpositionrelativewidthcalc100100pxoverflowhidden .mkheightpxoverflowhidden {
     white-space: nowrap;
     text-overflow: ellipsis;
     overflow: hidden
 }
 
-.x3uMi {
+.mkpositionabsolutedisplayflexalignItemscenter2 {
     background-position: 50%;
     background-size: cover;
     background-color: var(--MI_THEME-bg);
@@ -1732,37 +1732,37 @@ html[data-color-scheme=light] .xnU59 {
     position: absolute
 }
 
-.x3uMi+.xo52c {
+.mkpositionabsolutedisplayflexalignItemscenter2+.mkpositionrelativewidthcalc100100pxoverflowhidden {
     width: calc(100% - 100px);
     left: 100px
 }
 
-.xo52c {
+.mkpositionrelativewidthcalc100100pxoverflowhidden {
     box-sizing: border-box;
     padding: 16px;
     position: relative
 }
 
-.xfNOp {
+.mkoverflowhidden3 {
     margin-bottom: 8px
 }
 
-.xgWab {
+.mkoverflowhiddenfontSizeemmargin {
     margin: 0;
     font-size: 1em
 }
 
-.xbyHy {
+.mkoverflowhiddenfontSizeemmargin2 {
     margin: 0;
     font-size: .8em
 }
 
-.xv626 {
+.mkheightpxoverflowhidden {
     height: 16px;
     margin-top: 8px
 }
 
-.xzLrO {
+.mkdisplayinlineBlockwidthpxheightpx {
     vertical-align: top;
     width: 16px;
     height: 16px;
@@ -1770,7 +1770,7 @@ html[data-color-scheme=light] .xnU59 {
     display: inline-block
 }
 
-.xuHaL {
+.mkdisplayinlineBlockfontSizeemmargin {
     vertical-align: top;
     margin: 0;
     font-size: .8em;
@@ -1778,7 +1778,7 @@ html[data-color-scheme=light] .xnU59 {
     display: inline-block
 }
 
-.xEQzv {
+.mkdisplayflex5 {
     flex-wrap: wrap;
     gap: 6px;
     margin-top: 6px;
@@ -1786,67 +1786,67 @@ html[data-color-scheme=light] .xnU59 {
 }
 
 @container (width<=400px) {
-    .xlXwJ {
+    .mkpositionrelativedisplayblockwidthpx {
         font-size: 12px
     }
 
-    .x3uMi {
+    .mkpositionabsolutedisplayflexalignItemscenter2 {
         height: 80px
     }
 
-    .xo52c {
+    .mkpositionrelativewidthcalc100100pxoverflowhidden {
         padding: 12px
     }
 }
 
 @container (width<=350px) {
-    .xlXwJ {
+    .mkpositionrelativedisplayblockwidthpx {
         font-size: 10px
     }
 
-    .xlXwJ.x4Jn8>.x3uMi {
+    .mkpositionrelativedisplayblockwidthpx.mkpositionabsolutewidthpxheight>.mkpositionabsolutedisplayflexalignItemscenter2 {
         width: 56px;
         height: 100%;
         position: absolute
     }
 
-    .xlXwJ.x4Jn8>.xo52c {
+    .mkpositionrelativedisplayblockwidthpx.mkpositionabsolutewidthpxheight>.mkpositionrelativewidthcalc100100pxoverflowhidden {
         width: calc(100% - 56px);
         padding: 4px;
         left: 56px
     }
 
-    .xlXwJ.x4Jn8>.xo52c>.xfNOp {
+    .mkpositionrelativedisplayblockwidthpx.mkpositionabsolutewidthpxheight>.mkpositionrelativewidthcalc100100pxoverflowhidden>.mkoverflowhidden3 {
         margin-bottom: 2px
     }
 
-    .xlXwJ.x4Jn8>.xo52c>.xv626 {
+    .mkpositionrelativedisplayblockwidthpx.mkpositionabsolutewidthpxheight>.mkpositionrelativewidthcalc100100pxoverflowhidden>.mkheightpxoverflowhidden {
         margin-top: 2px
     }
 
-    .x3uMi {
+    .mkpositionabsolutedisplayflexalignItemscenter2 {
         height: 70px
     }
 
-    .xo52c {
+    .mkpositionrelativewidthcalc100100pxoverflowhidden {
         padding: 8px
     }
 
-    .xfNOp {
+    .mkoverflowhidden3 {
         margin-bottom: 4px
     }
 
-    .xv626 {
+    .mkheightpxoverflowhidden {
         margin-top: 4px
     }
 
-    .xzLrO {
+    .mkdisplayinlineBlockwidthpxheightpx {
         width: 12px;
         height: 12px
     }
 }
 
-.xaVIe {
+.mkdisplayflexalignItemscenterheightex {
     color: #fff;
     border-radius: 4px 0 0 4px;
     align-items: center;
@@ -1856,12 +1856,12 @@ html[data-color-scheme=light] .xnU59 {
     mask-image: linear-gradient(90deg,#000,#000 calc(100% - 16px),#0000 100%)
 }
 
-.xuevx {
+.mkheightex {
     flex-shrink: 0;
     height: 2ex
 }
 
-.xiWQB {
+.mkoverflowvisiblefontSizeem {
     white-space: nowrap;
     color: var(--MI_THEME-fg);
     -webkit-text-stroke: var(--MI_THEME-panel) .225em;
@@ -1873,18 +1873,18 @@ html[data-color-scheme=light] .xnU59 {
     overflow: visible
 }
 
-.xcSej {
+.mkpositionrelativedisplayblockwidthcalc1008px {
     contain: content;
     font-size: 1.05em;
     position: relative;
     overflow: clip
 }
 
-.xcSej:focus-visible {
+.mkpositionrelativedisplayblockwidthcalc1008px:focus-visible {
     outline: none
 }
 
-.xcSej:focus-visible:after {
+.mkpositionrelativedisplayblockwidthcalc1008px:focus-visible:after {
     content: "";
     pointer-events: none;
     z-index: 10;
@@ -1899,16 +1899,16 @@ html[data-color-scheme=light] .xnU59 {
     inset: 0
 }
 
-.xcSej .xhAPG {
+.mkpositionrelativedisplayblockwidthcalc1008px .mkpositionrelativeborderRadiuspxpaddingpx {
     z-index: 1;
     position: relative
 }
 
-.xcSej:hover>.x5yeR>.xDn7E>.xhAPG>.xviCy {
+.mkpositionrelativedisplayblockwidthcalc1008px:hover>.mkpositionrelativedisplayflexpaddingpx32px>.mkcolorThemeflex>.mkpositionrelativeborderRadiuspxpaddingpx>.mkfontSizepaddingpxmargin {
     color: var(--MI_THEME-fg)
 }
 
-.xcSej.xj38T .xhAPG {
+.mkpositionrelativedisplayblockwidthcalc1008px.mkpositionabsolutefontSizeborderRadiuspx .mkpositionrelativeborderRadiuspxpaddingpx {
     visibility: hidden;
     background: var(--MI_THEME-popup);
     box-shadow: 0px 4px 32px var(--MI_THEME-shadow);
@@ -1920,24 +1920,24 @@ html[data-color-scheme=light] .xnU59 {
     margin-bottom: 0!important
 }
 
-.xcSej.xj38T .xviCy {
+.mkpositionrelativedisplayblockwidthcalc1008px.mkpositionabsolutefontSizeborderRadiuspx .mkfontSizepaddingpxmargin {
     font-size: 90%
 }
 
-.xcSej.xj38T .xviCy:not(:last-child) {
+.mkpositionrelativedisplayblockwidthcalc1008px.mkpositionabsolutefontSizeborderRadiuspx .mkfontSizepaddingpxmargin:not(:last-child) {
     margin-right: 0
 }
 
-.xcSej.xj38T:hover .xhAPG {
+.mkpositionrelativedisplayblockwidthcalc1008px.mkpositionabsolutefontSizeborderRadiuspx:hover .mkpositionrelativeborderRadiuspxpaddingpx {
     visibility: visible
 }
 
-.xh0dS {
+.mkcontentVisibilityautocontainIntrinsicSizepx {
     content-visibility: auto;
     contain-intrinsic-size: 0 150px
 }
 
-.x1Mlp {
+.mkdisplayflexalignItemscenterfontSize {
     white-space: pre;
     color: #d28a3f;
     align-items: center;
@@ -1947,16 +1947,16 @@ html[data-color-scheme=light] .xnU59 {
     display: flex
 }
 
-.x1Mlp+.x5yeR {
+.mkdisplayflexalignItemscenterfontSize+.mkpositionrelativedisplayflexpaddingpx32px {
     padding-top: 8px
 }
 
-.xCFgx {
+.mkopacity2 {
     opacity: .7;
     padding-bottom: 0
 }
 
-.xBwhh {
+.mkpositionrelativedisplayflexalignItemscenter {
     white-space: pre;
     color: var(--MI_THEME-renote);
     align-items: center;
@@ -1966,15 +1966,15 @@ html[data-color-scheme=light] .xnU59 {
     position: relative
 }
 
-.xBwhh+.x5yeR {
+.mkpositionrelativedisplayflexalignItemscenter+.mkpositionrelativedisplayflexpaddingpx32px {
     padding-top: 8px
 }
 
-.xBwhh>.xj6M6 {
+.mkpositionrelativedisplayflexalignItemscenter>.mkpositionabsolutewidthpxheightcalc1006px {
     height: calc(100% - 6px)
 }
 
-.xf8ll {
+.mkdisplayinlineBlockwidthpxheightpx2 {
     flex-shrink: 0;
     width: 28px;
     height: 28px;
@@ -1982,32 +1982,32 @@ html[data-color-scheme=light] .xnU59 {
     display: inline-block
 }
 
-.xzyAJ {
+.mkoverflowhidden4 {
     text-overflow: ellipsis;
     white-space: nowrap;
     flex-shrink: 1;
     overflow: hidden
 }
 
-.x8KMZ {
+.mkfontWeight {
     font-weight: 700
 }
 
-.xef7n {
+.mkfontSizeem4 {
     margin-left: auto;
     font-size: .9em
 }
 
-.xj7Ge {
+.mkcolorinheritflexShrink {
     color: inherit;
     flex-shrink: 0
 }
 
-.x7jLz {
+.mkmarginRightpx {
     margin-right: 4px
 }
 
-.x22gY {
+.mkdisplayflexalignItemscenterpaddingpx18px {
     white-space: pre;
     align-items: center;
     padding: 0 32px 18px;
@@ -2015,7 +2015,7 @@ html[data-color-scheme=light] .xnU59 {
     display: flex
 }
 
-.xygrl {
+.mkdisplayinlineBlockwidthpxheightpx3 {
     flex-shrink: 0;
     width: 28px;
     height: 28px;
@@ -2023,7 +2023,7 @@ html[data-color-scheme=light] .xnU59 {
     display: inline-block
 }
 
-.x7Nkr {
+.mkoverflowhiddenfontSizecursorpointer {
     text-overflow: ellipsis;
     white-space: nowrap;
     opacity: .7;
@@ -2033,17 +2033,17 @@ html[data-color-scheme=light] .xnU59 {
     overflow: hidden
 }
 
-.x7Nkr:hover {
+.mkoverflowhiddenfontSizecursorpointer:hover {
     text-decoration: underline
 }
 
-.x5yeR {
+.mkpositionrelativedisplayflexpaddingpx32px {
     padding: 28px 32px;
     display: flex;
     position: relative
 }
 
-.xj6M6 {
+.mkpositionabsolutewidthpxheightcalc1006px {
     pointer-events: none;
     border-radius: 999px;
     width: 5px;
@@ -2053,7 +2053,7 @@ html[data-color-scheme=light] .xnU59 {
     left: 8px
 }
 
-.xrEoV {
+.mkpositionstickydisplayblockwidthpx2 {
     flex-shrink: 0;
     width: 58px;
     height: 58px;
@@ -2061,18 +2061,18 @@ html[data-color-scheme=light] .xnU59 {
     display: block!important
 }
 
-.xrEoV.xBZfi {
+.mkpositionstickydisplayblockwidthpx2.mkpositionsticky2 {
     top: calc(22px + var(--MI-stickyTop,0px));
     left: 0;
     position: sticky!important
 }
 
-.xDn7E {
+.mkcolorThemeflex {
     flex: 1;
     min-width: 0
 }
 
-.xmqJ1 {
+.mkdisplayblockcursordefaultpadding3 {
     cursor: default;
     overflow-wrap: break-word;
     margin: 0;
@@ -2080,14 +2080,14 @@ html[data-color-scheme=light] .xnU59 {
     display: block
 }
 
-.xEQOd {
+.mkpositionstickywidth2 {
     width: 100%;
     bottom: calc(var(--MI-stickyBottom,0px) + 14px);
     margin-top: 14px;
     position: sticky
 }
 
-.x2fj3 {
+.mkdisplayinlineBlockfontSizeemborderRadiuspx4 {
     background: var(--MI_THEME-popup);
     border-radius: 999px;
     padding: 6px 10px;
@@ -2096,13 +2096,13 @@ html[data-color-scheme=light] .xnU59 {
     box-shadow: 0 2px 6px #0003
 }
 
-.xhI9l {
+.mkpositionrelativeoverflowclip3 {
     max-height: 9em;
     position: relative;
     overflow: clip
 }
 
-.x2bwI {
+.mkpositionabsolutedisplayblockwidth2 {
     z-index: 2;
     background: linear-gradient(0deg, var(--MI_THEME-panel), color(from var(--MI_THEME-panel) srgb r g b/0));
     width: 100%;
@@ -2113,11 +2113,11 @@ html[data-color-scheme=light] .xnU59 {
     left: 0
 }
 
-.x2bwI:hover>.x3Iwx {
+.mkpositionabsolutedisplayblockwidth2:hover>.mkdisplayinlineBlockfontSizeemborderRadiuspx5 {
     background: var(--MI_THEME-panelHighlight)
 }
 
-.x3Iwx {
+.mkdisplayinlineBlockfontSizeemborderRadiuspx5 {
     background: var(--MI_THEME-panel);
     border-radius: 999px;
     padding: 6px 10px;
@@ -2126,145 +2126,145 @@ html[data-color-scheme=light] .xnU59 {
     box-shadow: 0 2px 6px #0003
 }
 
-.x48yH {
+.mkoverflowWrapbreakWord {
     overflow-wrap: break-word
 }
 
-.x9PYN {
+.mkcolorThememarginRightem {
     color: var(--MI_THEME-accent);
     margin-right: .5em
 }
 
-.xdVKf {
+.mkborderRadiusThemepaddingpx {
     border: solid .5px var(--MI_THEME-divider);
     border-radius: var(--MI-radius);
     margin-top: 8px;
     padding: 12px
 }
 
-.x2YhS {
+.mkmarginToppx {
     margin-top: 8px
 }
 
-.xhbgE {
+.mkfontSize {
     font-size: 80%
 }
 
-.xnihJ {
+.mkpaddingpx0 {
     padding: 8px 0
 }
 
-.xChvz {
+.mkoverflowclipborderRadiuspxpaddingpx {
     border: dashed 1px var(--MI_THEME-renote);
     border-radius: 8px;
     padding: 16px;
     overflow: clip
 }
 
-.xww2J {
+.mkfontSizeopacity {
     opacity: .7;
     font-size: 80%
 }
 
-.xhAPG {
+.mkpositionrelativeborderRadiuspxpaddingpx {
     margin-bottom: -14px
 }
 
-.xviCy {
+.mkfontSizepaddingpxmargin {
     color: color-mix(in srgb, var(--MI_THEME-panel), var(--MI_THEME-fg) 70%);
     margin: 0;
     padding: 8px
 }
 
-.xviCy:not(:last-child) {
+.mkfontSizepaddingpxmargin:not(:last-child) {
     margin-right: 28px
 }
 
-.xviCy:hover {
+.mkfontSizepaddingpxmargin:hover {
     color: var(--MI_THEME-fgHighlighted)
 }
 
-.xt1qp {
+.mkdisplayinlinemarginpx {
     margin: 0 0 0 8px;
     display: inline
 }
 
 @container (width<=580px) {
-    .xcSej {
+    .mkpositionrelativedisplayblockwidthcalc1008px {
         font-size: .95em
     }
 
-    .xBwhh {
+    .mkpositionrelativedisplayflexalignItemscenter {
         padding: 12px 26px 0
     }
 
-    .x5yeR {
+    .mkpositionrelativedisplayflexpaddingpx32px {
         padding: 24px 26px
     }
 
-    .xrEoV {
+    .mkpositionstickydisplayblockwidthpx2 {
         width: 50px;
         height: 50px
     }
 }
 
 @container (width<=500px) {
-    .xcSej {
+    .mkpositionrelativedisplayblockwidthcalc1008px {
         font-size: .9em
     }
 
-    .xBwhh {
+    .mkpositionrelativedisplayflexalignItemscenter {
         padding: 10px 22px 0
     }
 
-    .x5yeR {
+    .mkpositionrelativedisplayflexpaddingpx32px {
         padding: 20px 22px
     }
 
-    .xhAPG {
+    .mkpositionrelativeborderRadiuspxpaddingpx {
         margin-bottom: -8px
     }
 }
 
 @container (width<=480px) {
-    .xBwhh,.x1Mlp {
+    .mkpositionrelativedisplayflexalignItemscenter,.mkdisplayflexalignItemscenterfontSize {
         padding: 8px 16px 0
     }
 
-    .x22gY {
+    .mkdisplayflexalignItemscenterpaddingpx18px {
         margin-top: 4px;
         padding: 0 16px 9px
     }
 
-    .x5yeR {
+    .mkpositionrelativedisplayflexpaddingpx32px {
         padding: 14px 16px
     }
 }
 
 @container (width<=450px) {
-    .xrEoV {
+    .mkpositionstickydisplayblockwidthpx2 {
         width: 46px;
         height: 46px;
         margin: 0 10px 0 0
     }
 
-    .xrEoV.xBZfi {
+    .mkpositionstickydisplayblockwidthpx2.mkpositionsticky2 {
         top: calc(14px + var(--MI-stickyTop,0px))
     }
 }
 
 @container (width<=400px) {
-    .xcSej:not(.xj38T) .xviCy:not(:last-child) {
+    .mkpositionrelativedisplayblockwidthcalc1008px:not(.mkpositionabsolutefontSizeborderRadiuspx) .mkfontSizepaddingpxmargin:not(:last-child) {
         margin-right: 18px
     }
 }
 
 @container (width<=350px) {
-    .xcSej:not(.xj38T) .xviCy:not(:last-child) {
+    .mkpositionrelativedisplayblockwidthcalc1008px:not(.mkpositionabsolutefontSizeborderRadiuspx) .mkfontSizepaddingpxmargin:not(:last-child) {
         margin-right: 12px
     }
 
-    .xj6M6 {
+    .mkpositionabsolutewidthpxheightcalc1006px {
         width: 4px;
         height: calc(100% - 12px);
         top: 6px;
@@ -2273,36 +2273,36 @@ html[data-color-scheme=light] .xnU59 {
 }
 
 @container (width<=300px) {
-    .xrEoV {
+    .mkpositionstickydisplayblockwidthpx2 {
         width: 44px;
         height: 44px
     }
 
-    .xcSej:not(.xj38T) .xviCy:not(:last-child) {
+    .mkpositionrelativedisplayblockwidthcalc1008px:not(.mkpositionabsolutefontSizeborderRadiuspx) .mkfontSizepaddingpxmargin:not(:last-child) {
         margin-right: 8px
     }
 }
 
 @container (width<=250px) {
-    .xChvz {
+    .mkoverflowclipborderRadiuspxpaddingpx {
         padding: 12px
     }
 }
 
-.xkYCV {
+.mktextAligncenteropacitypaddingpx {
     text-align: center;
     opacity: .7;
     padding: 8px
 }
 
-.xtdbC {
+.mkdisplayinlineBlockfontSizeopacity {
     opacity: .8;
     margin-left: 8px;
     font-size: 95%;
     display: inline-block
 }
 
-.xEdMK {
+.mktextAligncenterborderRadiuspxpaddingpx4 {
     text-align: center;
     --color: light-dark(#0000000d,#00000026);
     background-size: auto;
@@ -2312,48 +2312,48 @@ html[data-color-scheme=light] .xnU59 {
     padding: 32px
 }
 
-.x9PAQ {
+.mktransitiontransform7sCubicBezier231321 {
     transition: transform .7s cubic-bezier(.23,1,.32,1)
 }
 
-.x8i36 {
+.mktransitiontransform7sCubicBezier231321Opacity7sCubicBezier231321conten {
     transition: transform .7s cubic-bezier(.23,1,.32,1),opacity .7s cubic-bezier(.23,1,.32,1)
 }
 
-.x8i36.xqOFi,.x8i36 .xqOFi {
+.mktransitiontransform7sCubicBezier231321Opacity7sCubicBezier231321conten.mkcontentVisibilityvisibleborderBottomsolid5pxTheme,.mktransitiontransform7sCubicBezier231321Opacity7sCubicBezier231321conten .mkcontentVisibilityvisibleborderBottomsolid5pxTheme {
     content-visibility: visible!important
 }
 
-.xhXb8 {
+.mktransitionheight2sCubicBezier0551Opacity2sCubicBezier0551 {
     transition: height .2s cubic-bezier(0,.5,.5,1),opacity .2s cubic-bezier(0,.5,.5,1)
 }
 
-.x7MtE {
+.mkopacitytransformtranslateyMax64px100 {
     opacity: 0;
     transform: translateY(max(-64px,-100%))
 }
 
 @supports (interpolate-size:allow-keywords) {
-    .xBYwE {
+    .mkheightopacity {
         interpolate-size: allow-keywords;
         height: 0
     }
 }
 
-.xBYwE {
+.mkheightopacity {
     opacity: 0
 }
 
-.xi81h {
+.mkbackgroundThemecontainerTypeinlineSize {
     background: var(--MI_THEME-panel);
     container-type: inline-size
 }
 
-.xqOFi:not(:empty) {
+.mkcontentVisibilityvisibleborderBottomsolid5pxTheme:not(:empty) {
     border-bottom: solid .5px var(--MI_THEME-divider)
 }
 
-.xAyqj {
+.mkpositionstickywidthpaddingcalc10pxTheme010px0 {
     --gapFill: .5px;
     top: calc(var(--MI-stickyTop,0px) - var(--gapFill));
     z-index: 1000;
@@ -2363,24 +2363,24 @@ html[data-color-scheme=light] .xnU59 {
     position: sticky
 }
 
-.xbNtq,.xiWub {
+.mkpositionabsoluteheight2,.mkpositionabsoluteheight3 {
     position: absolute;
     inset: 0
 }
 
-.xbNtq {
+.mkpositionabsoluteheight2 {
     height: 100%;
     backdrop-filter: var(--MI-blur,blur(2px));
     mask-image: linear-gradient(#000 50%,#000000f3 57.75%,#000000e4 61.25%,#0000008c 73.55%,#00000073 76.45%,#0000001b 88.75%,#0000000c 92.25%,#0000 100%)
 }
 
-.xiWub {
+.mkpositionabsoluteheight3 {
     height: 75%;
     backdrop-filter: var(--MI-blur,blur(4px));
     mask-image: linear-gradient(#000 0%,#000000f3 8.1%,#000000e4 22.5%,#0000008c 47.1%,#00000073 52.9%,#0000001b 77.5%,#0000000c 84.5%,#0000 100%)
 }
 
-.xjmMS {
+.mkpositionrelativedisplayblockwidthmaxContent {
     background: var(--MI_THEME-accent);
     width: max-content;
     color: var(--MI_THEME-fgOnAccent);
@@ -2392,15 +2392,15 @@ html[data-color-scheme=light] .xnU59 {
     position: relative
 }
 
-.xjmMS:hover {
+.mkpositionrelativedisplayblockwidthmaxContent:hover {
     background: hsl(from var(--MI_THEME-accent) h s calc(l + 5))
 }
 
-.xjmMS:active {
+.mkpositionrelativedisplayblockwidthmaxContent:active {
     background: hsl(from var(--MI_THEME-accent) h s calc(l - 5))
 }
 
-.xpWm6 {
+.mkdisplayflexalignItemscenterjustifyContentcenter3 {
     border-bottom: solid .5px var(--MI_THEME-divider);
     justify-content: center;
     align-items: center;
@@ -2411,18 +2411,18 @@ html[data-color-scheme=light] .xnU59 {
     display: flex
 }
 
-.xc1Wv {
+.mkdisplaynonepaddingpx {
     background-size: auto;
     background-image: repeating-linear-gradient(45deg, transparent, transparent 8px, var(--MI_THEME-bg) 8px, var(--MI_THEME-bg) 14px);
     border-bottom: solid .5px var(--MI_THEME-divider);
     padding: 8px
 }
 
-.xc1Wv:empty {
+.mkdisplaynonepaddingpx:empty {
     display: none
 }
 
-.xx9tq {
+.mkdisplayblockwidthpaddingpx {
     box-sizing: border-box;
     background: var(--MI_THEME-panel);
     width: 100%;
@@ -2430,7 +2430,7 @@ html[data-color-scheme=light] .xnU59 {
     display: block
 }
 
-.xjKwB {
+.mkpositionstickywidthmargincalc675em8px0 {
     top: calc(var(--MI-stickyTop,0px) + 16px);
     z-index: 1000;
     width: 100%;
@@ -2438,28 +2438,28 @@ html[data-color-scheme=light] .xnU59 {
     position: sticky
 }
 
-.xjKwB:first-child {
+.mkpositionstickywidthmargincalc675em8px0:first-child {
     margin-top: calc(-.675em - 8px - var(--MI-margin))
 }
 
-.xvbZZ {
+.mkdisplayblockborderRadiuspxpaddingpx16px {
     margin: var(--MI-margin) auto 0 auto;
     border-radius: 32px;
     padding: 8px 16px;
     display: block
 }
 
-.xq7ec {
+.mkborderRadiusTheme {
     border-radius: var(--MI-radius)
 }
 
-.xjptQ {
+.mkoverflowclipborderRadiusTheme {
     background: var(--MI_THEME-bg);
     border-radius: var(--MI-radius);
     overflow: clip
 }
 
-.xbaFh {
+.mkpositionrelativedisplayblockwidthmaxContent2 {
     z-index: 1;
     text-align: center;
     width: max-content;
@@ -2478,131 +2478,131 @@ html[data-color-scheme=light] .xnU59 {
     overflow: clip
 }
 
-.xbaFh:hover {
+.mkpositionrelativedisplayblockwidthmaxContent2:hover {
     text-decoration: none
 }
 
-.xbaFh:not(:disabled):hover,.xbaFh:not(:disabled):active {
+.mkpositionrelativedisplayblockwidthmaxContent2:not(:disabled):hover,.mkpositionrelativedisplayblockwidthmaxContent2:not(:disabled):active {
     background: var(--MI_THEME-buttonHoverBg)
 }
 
-.xbaFh.xm5Tm {
+.mkpositionrelativedisplayblockwidthmaxContent2.mkpaddingpx {
     min-width: auto;
     padding: 7px
 }
 
-.xbaFh.xrmjY {
+.mkpositionrelativedisplayblockwidthmaxContent2.mkfontSizepaddingpx12px {
     padding: 6px 12px;
     font-size: 90%
 }
 
-.xbaFh.x3MCF {
+.mkpositionrelativedisplayblockwidthmaxContent2.mkfontSizepaddingpx16px {
     padding: 8px 16px;
     font-size: 100%
 }
 
-.xbaFh.xdt0l {
+.mkpositionrelativedisplayblockwidthmaxContent2.mkwidth {
     width: 100%
 }
 
-.xbaFh.xlA8v {
+.mkpositionrelativedisplayblockwidthmaxContent2.mkborderRadiuspx4 {
     border-radius: 999px
 }
 
-.xbaFh.x2hCn {
+.mkpositionrelativedisplayblockwidthmaxContent2.mkbackgroundThemefontWeight {
     background: var(--MI_THEME-accent);
     font-weight: 700;
     color: var(--MI_THEME-fgOnAccent)!important
 }
 
-.xbaFh.x2hCn:not(:disabled):hover,.xbaFh.x2hCn:not(:disabled):active {
+.mkpositionrelativedisplayblockwidthmaxContent2.mkbackgroundThemefontWeight:not(:disabled):hover,.mkpositionrelativedisplayblockwidthmaxContent2.mkbackgroundThemefontWeight:not(:disabled):active {
     background: hsl(from var(--MI_THEME-accent) h s calc(l + 5))
 }
 
-.xbaFh.xzgmv {
+.mkpositionrelativedisplayblockwidthmaxContent2.mkcolorFf002fbackgroundFf567d12 {
     color: #ff002f;
     background: #ff567d12
 }
 
-.xbaFh.xzgmv:not(:disabled):hover {
+.mkpositionrelativedisplayblockwidthmaxContent2.mkcolorFf002fbackgroundFf567d12:not(:disabled):hover {
     background: #ff4a741c
 }
 
-.xbaFh.xzgmv:not(:disabled):active {
+.mkpositionrelativedisplayblockwidthmaxContent2.mkcolorFf002fbackgroundFf567d12:not(:disabled):active {
     background: #e0396020
 }
 
-.xbaFh.xzgmv>.xDPWR>.x4uZY {
+.mkpositionrelativedisplayblockwidthmaxContent2.mkcolorFf002fbackgroundFf567d12>.mkpositionabsolutewidthheight3>.mkpositionabsolutewidthpxheightpx {
     background: #ff3c6a26
 }
 
-.xbaFh.xzgmv.x2hCn {
+.mkpositionrelativedisplayblockwidthmaxContent2.mkcolorFf002fbackgroundFf567d12.mkbackgroundThemefontWeight {
     background: #f16184
 }
 
-.xbaFh.xzgmv.x2hCn:not(:disabled):hover,.xbaFh.xzgmv.x2hCn:not(:disabled):active {
+.mkpositionrelativedisplayblockwidthmaxContent2.mkcolorFf002fbackgroundFf567d12.mkbackgroundThemefontWeight:not(:disabled):hover,.mkpositionrelativedisplayblockwidthmaxContent2.mkcolorFf002fbackgroundFf567d12.mkbackgroundThemefontWeight:not(:disabled):active {
     background: #f15c80
 }
 
-.xbaFh.xxs1Q {
+.mkpositionrelativedisplayblockwidthmaxContent2.mkbackground {
     background: 0 0
 }
 
-.xbaFh.xze7V {
+.mkpositionrelativedisplayblockwidthmaxContent2.mkbackgroundlinearGradient90degThemeThemefontWeight {
     background: linear-gradient(90deg, var(--MI_THEME-buttonGradateA), var(--MI_THEME-buttonGradateB));
     font-weight: 700;
     color: var(--MI_THEME-fgOnAccent)!important
 }
 
-.xbaFh.xze7V:not(:disabled):hover,.xbaFh.xze7V:not(:disabled):active {
+.mkpositionrelativedisplayblockwidthmaxContent2.mkbackgroundlinearGradient90degThemeThemefontWeight:not(:disabled):hover,.mkpositionrelativedisplayblockwidthmaxContent2.mkbackgroundlinearGradient90degThemeThemefontWeight:not(:disabled):active {
     background: linear-gradient(90deg, hsl(from var(--MI_THEME-buttonGradateA) h s calc(l + 5)), hsl(from var(--MI_THEME-buttonGradateB) h s calc(l + 5)))
 }
 
-.xbaFh.xB0oK {
+.mkpositionrelativedisplayblockwidthmaxContent2.mkcolorThemefontWeight {
     color: var(--MI_THEME-error);
     font-weight: 700
 }
 
-.xbaFh.xB0oK.x2hCn {
+.mkpositionrelativedisplayblockwidthmaxContent2.mkcolorThemefontWeight.mkbackgroundThemefontWeight {
     color: #fff;
     background: var(--MI_THEME-error)
 }
 
-.xbaFh.xB0oK.x2hCn:not(:disabled):hover {
+.mkpositionrelativedisplayblockwidthmaxContent2.mkcolorThemefontWeight.mkbackgroundThemefontWeight:not(:disabled):hover {
     background: hsl(from var(--MI_THEME-error) h s calc(l + 10))
 }
 
-.xbaFh.xB0oK.x2hCn:not(:disabled):active {
+.mkpositionrelativedisplayblockwidthmaxContent2.mkcolorThemefontWeight.mkbackgroundThemefontWeight:not(:disabled):active {
     background: hsl(from var(--MI_THEME-error) h s calc(l - 10))
 }
 
-.xbaFh.xn08u {
+.mkpositionrelativedisplayblockwidthmaxContent2.mkcolorTheme2 {
     color: var(--MI_THEME-accent)!important
 }
 
-.xbaFh:disabled {
+.mkpositionrelativedisplayblockwidthmaxContent2:disabled {
     opacity: .5
 }
 
-.xbaFh.xpr1U {
+.mkpositionrelativedisplayblockwidthmaxContent2.mkcursorwait {
     cursor: wait!important
 }
 
-.xbaFh:focus-visible {
+.mkpositionrelativedisplayblockwidthmaxContent2:focus-visible {
     outline-offset: 2px
 }
 
-.xbaFh.xfjt2 {
+.mkpositionrelativedisplayblockwidthmaxContent2.mkdisplayinlineBlockwidthauto {
     width: auto;
     min-width: 100px;
     display: inline-block
 }
 
-.xbaFh.x2hCn>.xDPWR>.x4uZY {
+.mkpositionrelativedisplayblockwidthmaxContent2.mkbackgroundThemefontWeight>.mkpositionabsolutewidthheight3>.mkpositionabsolutewidthpxheightpx {
     background: #00000026
 }
 
-.xDPWR {
+.mkpositionabsolutewidthheight3 {
     z-index: 0;
     pointer-events: none;
     border-radius: 6px;
@@ -2614,7 +2614,7 @@ html[data-color-scheme=light] .xnU59 {
     overflow: clip
 }
 
-.x4uZY {
+.mkpositionabsolutewidthpxheightpx {
     opacity: 1;
     background: #0000001a;
     border-radius: 100%;
@@ -2625,23 +2625,23 @@ html[data-color-scheme=light] .xnU59 {
     transform: scale(1)
 }
 
-.xossv {
+.mkpositionrelative3 {
     z-index: 1;
     pointer-events: none;
     position: relative
 }
 
-.xjEI9 {
+.mkpositionrelative4 {
     position: relative
 }
 
-.xuk6C {
+.mkpositionrelativedisplayblockwidthTheme {
     border-radius: 10px;
     position: relative;
     overflow: clip
 }
 
-.xuk6C:before {
+.mkpositionrelativedisplayblockwidthTheme:before {
     content: "";
     width: var(--p);
     background: color(from var(--MI_THEME-accent) srgb r g b/.5);
@@ -2653,7 +2653,7 @@ html[data-color-scheme=light] .xnU59 {
     left: 0
 }
 
-.xuk6C.xeMY8:after {
+.mkpositionrelativedisplayblockwidthTheme.mkpositionabsolutedisplayblockwidthTheme:after {
     --c: color(from var(--MI_THEME-accent) srgb r g b / .25);
     content: "";
     width: var(--pp,100%);
@@ -2667,16 +2667,16 @@ html[data-color-scheme=light] .xnU59 {
     left: 0
 }
 
-.xuk6C.xbyCm:before {
+.mkpositionrelativedisplayblockwidthTheme.mkwidthTheme:before {
     width: var(--p);
     left: 100%
 }
 
-.xuk6C.xbyCm .xekKy {
+.mkpositionrelativedisplayblockwidthTheme.mkwidthTheme .mkwidthtextAligncenterfontSize {
     color: var(--MI_THEME-accent)
 }
 
-.xuk6C.xjJtF .xekKy {
+.mkpositionrelativedisplayblockwidthTheme.mkcolorTheme3 .mkwidthtextAligncenterfontSize {
     color: var(--MI_THEME-error)
 }
 
@@ -2690,7 +2690,7 @@ html[data-color-scheme=light] .xnU59 {
     }
 }
 
-.xvehD {
+.mkpositionrelativedisplayflexflexDirectioncolumn {
     z-index: 1;
     align-items: center;
     gap: 12px;
@@ -2699,7 +2699,7 @@ html[data-color-scheme=light] .xnU59 {
     position: relative
 }
 
-.xlqtR {
+.mkwidthpxheightpxborderRadiuspx {
     background-color: var(--MI_THEME-bg);
     background-position: 50%;
     background-repeat: no-repeat;
@@ -2709,12 +2709,12 @@ html[data-color-scheme=light] .xnU59 {
     height: 70px
 }
 
-.xekKy {
+.mkwidthtextAligncenterfontSize {
     flex: 1;
     min-width: 0
 }
 
-.x5gTE {
+.mkdisplayflexjustifyContentcenterfontSize {
     opacity: .7;
     gap: 8px;
     margin-top: 4px;
@@ -2722,41 +2722,41 @@ html[data-color-scheme=light] .xnU59 {
     display: flex
 }
 
-.x1Xv3 {
+.mkwidthpx {
     width: 35px
 }
 
 @container (width<=500px) {
-    .xvehD {
+    .mkpositionrelativedisplayflexflexDirectioncolumn {
         flex-direction: column;
         gap: 8px
     }
 
-    .xekKy {
+    .mkwidthtextAligncenterfontSize {
         text-align: center;
         width: 100%;
         min-width: 0;
         font-size: 90%
     }
 
-    .x5AeZ {
+    .mkpositionabsolute4 {
         position: absolute;
         top: 8px;
         left: 8px
     }
 
-    .x5gTE {
+    .mkdisplayflexjustifyContentcenterfontSize {
         justify-content: center
     }
 
-    .xprHv {
+    .mkpositionabsolute5 {
         position: absolute;
         top: 8px;
         right: 8px
     }
 }
 
-.xEd72 {
+.mkdisplayflexoverflowclipfontSizeem {
     margin: 0;
     padding: 0;
     font-size: .95em;
@@ -2764,7 +2764,7 @@ html[data-color-scheme=light] .xnU59 {
     overflow: clip
 }
 
-.xlPkH {
+.mkdisplayblockwidthpxheightpx2 {
     pointer-events: none!important;
     border-radius: 8px!important;
     flex-shrink: 0!important;
@@ -2774,12 +2774,12 @@ html[data-color-scheme=light] .xnU59 {
     display: block!important
 }
 
-.xi18j {
+.mkflexminWidth3 {
     flex: 1;
     min-width: 0
 }
 
-.xhY0o {
+.mkdisplayblockcursordefaultpadding4 {
     cursor: default;
     overflow-wrap: break-word;
     margin: 0;
@@ -2787,7 +2787,7 @@ html[data-color-scheme=light] .xnU59 {
     display: block
 }
 
-.xct11 {
+.mkwidthoverflowclip {
     text-overflow: ellipsis;
     width: 100%;
     margin-bottom: 2px;
@@ -2796,7 +2796,7 @@ html[data-color-scheme=light] .xnU59 {
 }
 
 @container (width>=350px) {
-    .xlPkH {
+    .mkdisplayblockwidthpxheightpx2 {
         width: 44px!important;
         height: 44px!important;
         margin: 0 10px 0 0!important
@@ -2804,14 +2804,14 @@ html[data-color-scheme=light] .xnU59 {
 }
 
 @container (width>=500px) {
-    .xlPkH {
+    .mkdisplayblockwidthpxheightpx2 {
         width: 48px!important;
         height: 48px!important;
         margin: 0 12px 0 0!important
     }
 }
 
-.xt5SL {
+.mkpositionrelativedisplayflexoverflowclip {
     background: var(--MI_THEME-panel);
     border-radius: 8px;
     display: flex;
@@ -2819,7 +2819,7 @@ html[data-color-scheme=light] .xnU59 {
     overflow: clip
 }
 
-.xsxob:after {
+.mkpositionabsolutewidthheight4:after {
     content: "";
     pointer-events: none;
     border-radius: inherit;
@@ -2831,7 +2831,7 @@ html[data-color-scheme=light] .xnU59 {
     left: 0
 }
 
-.x6Y9U {
+.mkpositionabsolutewidthheightauto {
     width: 30%;
     height: auto;
     margin: 0;
@@ -2840,117 +2840,117 @@ html[data-color-scheme=light] .xnU59 {
     right: 4%
 }
 
-.x5JE1 {
+.mkfontSizepxmarginauto {
     pointer-events: none;
     color: #777;
     margin: auto;
     font-size: 32px
 }
 
-.xvLcs .x5JE1 {
+.mkfontSizepx .mkfontSizepxmarginauto {
     font-size: 40px
 }
 
-.xE751 {
+.mkwidth2 {
     width: 100%
 }
 
-.x5xGi,.xnrUu,.xBycp {
+.mktransitionall15s,.mktransitionall15s2,.mkpositionabsolute6 {
     transition: all .15s
 }
 
-.xrK6U,.xdKs0 {
+.mkopacity3,.mkopacity4 {
     opacity: 0
 }
 
-.xBycp {
+.mkpositionabsolute6 {
     position: absolute
 }
 
-.x97tY {
+.mkdisplayflexflexDirectionrowalignItemscenter {
     flex-wrap: wrap;
     justify-content: left;
     align-items: center;
     display: flex
 }
 
-.x97tY.xbVPf {
+.mkdisplayflexflexDirectionrowalignItemscenter.mkflexDirectionrowwidthheight {
     flex-direction: row
 }
 
-.x97tY.xb1p2 {
+.mkdisplayflexflexDirectionrowalignItemscenter.mkflexDirectioncolumnwidthheight {
     flex-direction: column
 }
 
-.xjAgn {
+.mkpositionrelativewidth3 {
     position: relative
 }
 
-.x97tY.xb1p2 .xjAgn {
+.mkdisplayflexflexDirectionrowalignItemscenter.mkflexDirectioncolumnwidthheight .mkpositionrelativewidth3 {
     width: 100%
 }
 
-.x97tY.xbVPf.x4HTV {
+.mkdisplayflexflexDirectionrowalignItemscenter.mkflexDirectionrowwidthheight.mkrowGapThemepaddingLeftcalcTheme2 {
     row-gap: var(--MI-margin)
 }
 
-.x97tY.xbVPf.x4HTV .xjAgn {
+.mkdisplayflexflexDirectionrowalignItemscenter.mkflexDirectionrowwidthheight.mkrowGapThemepaddingLeftcalcTheme2 .mkpositionrelativewidth3 {
     padding-left: calc(var(--MI-margin) / 2);
     padding-right: calc(var(--MI-margin) / 2)
 }
 
-.x97tY.xb1p2.x4HTV .xjAgn {
+.mkdisplayflexflexDirectionrowalignItemscenter.mkflexDirectioncolumnwidthheight.mkrowGapThemepaddingLeftcalcTheme2 .mkpositionrelativewidth3 {
     padding-top: calc(var(--MI-margin) / 2);
     padding-bottom: calc(var(--MI-margin) / 2)
 }
 
-.xi1iK,.x8WEy {
+.mkpositionabsolutewidthheight5,.mkpositionabsolutewidthheight6 {
     z-index: 1;
     pointer-events: none;
     position: absolute
 }
 
-.x97tY.xfNXt .xi1iK,.x97tY.xfNXt .x8WEy {
+.mkdisplayflexflexDirectionrowalignItemscenter.mkpointerEventsauto .mkpositionabsolutewidthheight5,.mkdisplayflexflexDirectionrowalignItemscenter.mkpointerEventsauto .mkpositionabsolutewidthheight6 {
     pointer-events: auto
 }
 
-.x97tY.xbVPf .xi1iK {
+.mkdisplayflexflexDirectionrowalignItemscenter.mkflexDirectionrowwidthheight .mkpositionabsolutewidthheight5 {
     width: 50%;
     height: 100%;
     top: 0;
     left: 0
 }
 
-.x97tY.xbVPf .x8WEy {
+.mkdisplayflexflexDirectionrowalignItemscenter.mkflexDirectionrowwidthheight .mkpositionabsolutewidthheight6 {
     width: 50%;
     height: 100%;
     top: 0;
     right: 0
 }
 
-.x97tY.xb1p2 .xi1iK {
+.mkdisplayflexflexDirectionrowalignItemscenter.mkflexDirectioncolumnwidthheight .mkpositionabsolutewidthheight5 {
     width: 100%;
     height: 50%;
     top: 0;
     left: 0
 }
 
-.x97tY.xb1p2 .x8WEy {
+.mkdisplayflexflexDirectionrowalignItemscenter.mkflexDirectioncolumnwidthheight .mkpositionabsolutewidthheight6 {
     width: 100%;
     height: 50%;
     bottom: 0;
     left: 0
 }
 
-.x97tY.xzy3O.xbVPf .xi1iK,.x97tY.xzy3O.xbVPf .x8WEy {
+.mkdisplayflexflexDirectionrowalignItemscenter.mkwidthpxheightpx3.mkflexDirectionrowwidthheight .mkpositionabsolutewidthheight5,.mkdisplayflexflexDirectionrowalignItemscenter.mkwidthpxheightpx3.mkflexDirectionrowwidthheight .mkpositionabsolutewidthheight6 {
     width: 30px
 }
 
-.x97tY.xzy3O.xb1p2 .xi1iK,.x97tY.xzy3O.xb1p2 .x8WEy {
+.mkdisplayflexflexDirectionrowalignItemscenter.mkwidthpxheightpx3.mkflexDirectioncolumnwidthheight .mkpositionabsolutewidthheight5,.mkdisplayflexflexDirectionrowalignItemscenter.mkwidthpxheightpx3.mkflexDirectioncolumnwidthheight .mkpositionabsolutewidthheight6 {
     height: 30px
 }
 
-.x8gmh:before {
+.mkpositionabsolutewidthpxheight2:before {
     content: "";
     z-index: 99999;
     background: var(--MI_THEME-accent);
@@ -2959,55 +2959,55 @@ html[data-color-scheme=light] .xnU59 {
     position: absolute
 }
 
-.x97tY.xbVPf .xi1iK.x8gmh:before {
+.mkdisplayflexflexDirectionrowalignItemscenter.mkflexDirectionrowwidthheight .mkpositionabsolutewidthheight5.mkpositionabsolutewidthpxheight2:before {
     width: 2px;
     height: 100%;
     top: 0;
     left: -1px
 }
 
-.x97tY.xbVPf .x8WEy.x8gmh:before {
+.mkdisplayflexflexDirectionrowalignItemscenter.mkflexDirectionrowwidthheight .mkpositionabsolutewidthheight6.mkpositionabsolutewidthpxheight2:before {
     width: 2px;
     height: 100%;
     top: 0;
     right: -1px
 }
 
-.x97tY.xb1p2 .xi1iK.x8gmh:before {
+.mkdisplayflexflexDirectionrowalignItemscenter.mkflexDirectioncolumnwidthheight .mkpositionabsolutewidthheight5.mkpositionabsolutewidthpxheight2:before {
     width: 100%;
     height: 2px;
     top: -1px;
     left: 0
 }
 
-.x97tY.xb1p2 .x8WEy.x8gmh:before {
+.mkdisplayflexflexDirectionrowalignItemscenter.mkflexDirectioncolumnwidthheight .mkpositionabsolutewidthheight6.mkpositionabsolutewidthpxheight2:before {
     width: 100%;
     height: 2px;
     bottom: -1px;
     left: 0
 }
 
-.x97tY.xbVPf .xeZ5l {
+.mkdisplayflexflexDirectionrowalignItemscenter.mkflexDirectionrowwidthheight .mkwidthpxheightpx4 {
     width: 40px;
     height: 40px
 }
 
-.x97tY.xb1p2 .xeZ5l {
+.mkdisplayflexflexDirectionrowalignItemscenter.mkflexDirectioncolumnwidthheight .mkwidthpxheightpx4 {
     width: 100%;
     height: 50px
 }
 
-.xj7LU {
+.mkpositionrelativepaddingpx16px {
     padding: 8px 16px;
     position: relative
 }
 
-.xogvv {
+.mkdisplayflex6 {
     flex-wrap: wrap;
     display: flex
 }
 
-.xtEVP {
+.mkpositionrelativewidthpxheightpx {
     cursor: move;
     border-radius: 4px;
     width: 64px;
@@ -3016,18 +3016,18 @@ html[data-color-scheme=light] .xnU59 {
     overflow: hidden
 }
 
-.xtEVP:focus-visible {
+.mkpositionrelativewidthpxheightpx:focus-visible {
     outline-offset: 4px
 }
 
-.xCSUB {
+.mkwidthheight {
     z-index: 1;
     width: 100%;
     height: 100%;
     color: var(--MI_THEME-fg)
 }
 
-.x3bJu {
+.mkpositionabsolutedisplayflexwidthpx {
     z-index: 2;
     color: #fff;
     background: #111111b3;
@@ -3039,7 +3039,7 @@ html[data-color-scheme=light] .xnU59 {
     left: 0
 }
 
-.xeJ9I {
+.mkpositionabsolutedisplayblockfontSize {
     margin: 0;
     padding: 0;
     font-size: 90%;
@@ -3049,21 +3049,21 @@ html[data-color-scheme=light] .xnU59 {
     right: 8px
 }
 
-.xeJ9I.xavsh {
+.mkpositionabsolutedisplayblockfontSize.mkcolorTheme4 {
     color: var(--MI_THEME-error)
 }
 
-.xd9Do {
+.mkpaddingpx14px {
     padding: 4px 14px
 }
 
-.x1W09 {
+.mkfontSizepxopacity {
     opacity: .8;
     margin-bottom: 4px;
     font-size: 11px
 }
 
-.x1BUx {
+.mkpositionrelativedisplayflexalignItemscenter2 {
     gap: var(--MI-marginHalf);
     --countColor: var(--MI_THEME-accent);
     align-items: center;
@@ -3071,15 +3071,15 @@ html[data-color-scheme=light] .xnU59 {
     display: flex
 }
 
-.x1BUx.xv90r {
+.mkpositionrelativedisplayflexalignItemscenter2.mkStyledElement15 {
     --countColor: var(--MI_THEME-error)
 }
 
-.x1BUx.xbzwI {
+.mkpositionrelativedisplayflexalignItemscenter2.mkStyledElement16 {
     --countColor: var(--MI_THEME-warn)
 }
 
-.x1BUx .xoDpL {
+.mkpositionrelativedisplayflexalignItemscenter2 .mkpositionrelativewidthpxheightpx2 {
     background-image: conic-gradient(var(--countColor) 0% var(--v6d9ad105), #0003 var(--v6d9ad105) 100%);
     border-radius: 50%;
     width: 24px;
@@ -3087,7 +3087,7 @@ html[data-color-scheme=light] .xnU59 {
     position: relative
 }
 
-.x1BUx .xoDpL:after {
+.mkpositionrelativedisplayflexalignItemscenter2 .mkpositionrelativewidthpxheightpx2:after {
     content: "";
     background-color: var(--MI_THEME-popup);
     border-radius: 50%;
@@ -3099,55 +3099,55 @@ html[data-color-scheme=light] .xnU59 {
     transform: translate(-50%,-50%)
 }
 
-.x1BUx .x3Jqs {
+.mkpositionrelativedisplayflexalignItemscenter2 .mkfontSizepx2 {
     color: var(--countColor);
     font-size: 18px;
     font-weight: 700
 }
 
-.xzokp {
+.mkdisplaynonefontSizeempaddingpx {
     -webkit-user-select: none;
     user-select: none;
     padding: 0 0 8px;
     font-size: .85em
 }
 
-.xzokp:empty {
+.mkdisplaynonefontSizeempaddingpx:empty {
     display: none
 }
 
-.x5HNp {
+.mkdisplaynonefontSizeempaddingpx00 {
     color: color(from var(--MI_THEME-fg) srgb r g b/.75);
     padding: 8px 0 0;
     font-size: .85em
 }
 
-.x5HNp:empty {
+.mkdisplaynonefontSizeempaddingpx00:empty {
     display: none
 }
 
-.xbo7Y {
+.mkpositionrelativedisplayinlineBlockcursornotAllowed {
     position: relative
 }
 
-.xbo7Y.xaxTj {
+.mkpositionrelativedisplayinlineBlockcursornotAllowed.mkdisplayinlineBlockmargin {
     margin: 0;
     display: inline-block
 }
 
-.xbo7Y.x2NNv>.xndfW {
+.mkpositionrelativedisplayinlineBlockcursornotAllowed.mkborderColorTheme>.mkdisplayblockwidthheightTheme {
     border-color: var(--MI_THEME-accent)!important
 }
 
-.xbo7Y.x7Qqw {
+.mkpositionrelativedisplayinlineBlockcursornotAllowed.mkcursornotAllowedopacity {
     opacity: .7
 }
 
-.xbo7Y.x7Qqw,.xbo7Y.x7Qqw>.xndfW {
+.mkpositionrelativedisplayinlineBlockcursornotAllowed.mkcursornotAllowedopacity,.mkpositionrelativedisplayinlineBlockcursornotAllowed.mkcursornotAllowedopacity>.mkdisplayblockwidthheightTheme {
     cursor: not-allowed!important
 }
 
-.xndfW {
+.mkdisplayblockwidthheightTheme {
     appearance: none;
     height: var(--v3a8cc409);
     width: 100%;
@@ -3167,11 +3167,11 @@ html[data-color-scheme=light] .xnU59 {
     display: block
 }
 
-.xndfW:hover {
+.mkdisplayblockwidthheightTheme:hover {
     border-color: var(--MI_THEME-inputBorderHover)!important
 }
 
-.xfi6L,.x5MWw {
+.mkpositionabsolutedisplayflexalignItemscenter3,.mkpositionabsolutedisplayflexalignItemscenter4 {
     z-index: 1;
     height: var(--v3a8cc409);
     white-space: nowrap;
@@ -3189,76 +3189,76 @@ html[data-color-scheme=light] .xnU59 {
     overflow: hidden
 }
 
-.xfi6L:empty,.x5MWw:empty {
+.mkpositionabsolutedisplayflexalignItemscenter3:empty,.mkpositionabsolutedisplayflexalignItemscenter4:empty {
     display: none
 }
 
-.xfi6L {
+.mkpositionabsolutedisplayflexalignItemscenter3 {
     padding-right: 6px;
     left: 0
 }
 
-.x5MWw {
+.mkpositionabsolutedisplayflexalignItemscenter4 {
     padding-left: 6px;
     right: 0
 }
 
-.xtB8o {
+.mkmarginpx00 {
     margin: 8px 0 0
 }
 
-.x85Kr {
+.mkdisplaynonefontSizeempaddingpx2 {
     -webkit-user-select: none;
     user-select: none;
     padding: 0 0 8px;
     font-size: .85em
 }
 
-.x85Kr:empty {
+.mkdisplaynonefontSizeempaddingpx2:empty {
     display: none
 }
 
-.xlwzG {
+.mkdisplaynonefontSizeempaddingpx002 {
     color: color(from var(--MI_THEME-fg) srgb r g b/.75);
     padding: 8px 0 0;
     font-size: .85em
 }
 
-.xlwzG:empty {
+.mkdisplaynonefontSizeempaddingpx002:empty {
     display: none
 }
 
-.xlc7p {
+.mkpositionrelativedisplayinlineBlockcursorpointer {
     cursor: pointer;
     position: relative
 }
 
-.xlc7p.xCVUs {
+.mkpositionrelativedisplayinlineBlockcursorpointer.mkdisplayinlineBlockmargin2 {
     margin: 0;
     display: inline-block
 }
 
-.xlc7p.xnYBl>.xwGUJ {
+.mkpositionrelativedisplayinlineBlockcursorpointer.mkborderColorTheme2>.mkdisplayflexalignItemscenterwidth {
     border-color: var(--MI_THEME-accent)!important
 }
 
-.xlc7p.xc0tk {
+.mkpositionrelativedisplayinlineBlockcursorpointer.mkcursornotAllowedopacity2 {
     opacity: .7
 }
 
-.xlc7p.xc0tk,.xlc7p.xc0tk>.xwGUJ {
+.mkpositionrelativedisplayinlineBlockcursorpointer.mkcursornotAllowedopacity2,.mkpositionrelativedisplayinlineBlockcursorpointer.mkcursornotAllowedopacity2>.mkdisplayflexalignItemscenterwidth {
     cursor: not-allowed!important
 }
 
-.xlc7p:focus {
+.mkpositionrelativedisplayinlineBlockcursorpointer:focus {
     outline: none
 }
 
-.xlc7p:hover>.xwGUJ {
+.mkpositionrelativedisplayinlineBlockcursorpointer:hover>.mkdisplayflexalignItemscenterwidth {
     border-color: var(--MI_THEME-inputBorderHover)!important
 }
 
-.xwGUJ {
+.mkdisplayflexalignItemscenterwidth {
     appearance: none;
     height: var(--v01a95026);
     width: 100%;
@@ -3283,7 +3283,7 @@ html[data-color-scheme=light] .xnU59 {
     display: flex
 }
 
-.x98ie,.xyxj5 {
+.mkpositionabsolutedisplayflexalignItemscenter5,.mkpositionabsolutedisplayflexalignItemscenter6 {
     z-index: 1;
     height: var(--v01a95026);
     white-space: nowrap;
@@ -3301,29 +3301,29 @@ html[data-color-scheme=light] .xnU59 {
     overflow: hidden
 }
 
-.x98ie:empty,.xyxj5:empty {
+.mkpositionabsolutedisplayflexalignItemscenter5:empty,.mkpositionabsolutedisplayflexalignItemscenter6:empty {
     display: none
 }
 
-.x98ie {
+.mkpositionabsolutedisplayflexalignItemscenter5 {
     padding-right: 6px;
     left: 0
 }
 
-.xyxj5 {
+.mkpositionabsolutedisplayflexalignItemscenter6 {
     padding-left: 6px;
     right: 0
 }
 
-.xjbJ1 {
+.mkmarginpx002 {
     margin: 8px 0 0
 }
 
-.x9iNl {
+.mktransitiontransform1sEaseOut {
     transition: transform .1s ease-out
 }
 
-.xwE7z {
+.mktransformrotatex180deg {
     transform: rotateX(180deg)
 }
 
@@ -3347,16 +3347,16 @@ html[data-color-scheme=light] .xnU59 {
     position: relative
 }
 
-.xezk7 {
+.switchBoxOn {
     background-color: var(--MI_THEME-switchOnBg)!important;
     border-color: var(--MI_THEME-switchOnBg)!important
 }
 
-.x73Cp {
+.mkcursornotAllowed {
     cursor: not-allowed
 }
 
-.x3kAx {
+.switchKnob {
     box-sizing: border-box;
     width: calc(var(--height) - 6px);
     height: calc(var(--height) - 6px);
@@ -3366,17 +3366,17 @@ html[data-color-scheme=light] .xnU59 {
     top: 3px
 }
 
-.x3kAx:not(.xo7KL) {
+.switchKnob:not(.switchKnobOn) {
     background: var(--MI_THEME-switchOffFg);
     left: 3px
 }
 
-.xo7KL {
+.switchKnobOn {
     left: calc(100% - var(--height) + 3px);
     background: var(--MI_THEME-switchOnFg)
 }
 
-.x1kPZ {
+.switchLabel {
     -webkit-user-select: none;
     user-select: none;
     transition: all .2s;
@@ -3384,16 +3384,16 @@ html[data-color-scheme=light] .xnU59 {
     position: relative
 }
 
-.x1kPZ:hover>.x9dHI {
+.switchLabel:hover>.mkborderColorTheme3 {
     border-color: var(--MI_THEME-inputBorderHover)!important
 }
 
-.x1kPZ.xqcs3 {
+.switchLabel.mkcursornotAllowedopacity3 {
     opacity: .6;
     cursor: not-allowed
 }
 
-.x6eY1 {
+.mkpositionabsolutewidthheight7 {
     opacity: 0;
     width: 0;
     height: 0;
@@ -3401,12 +3401,12 @@ html[data-color-scheme=light] .xnU59 {
     position: absolute
 }
 
-.x6eY1:focus-visible~.xEZjz {
+.mkpositionabsolutewidthheight7:focus-visible~.mkoutlinepxSolidThemeoutlineOffsetpx {
     outline: 2px solid var(--MI_THEME-focus);
     outline-offset: 2px
 }
 
-.x9TaQ {
+.mkdisplayblock {
     color: var(--MI_THEME-fg);
     margin-top: 2px;
     margin-left: 12px;
@@ -3414,107 +3414,107 @@ html[data-color-scheme=light] .xnU59 {
     display: block
 }
 
-.xDJmg {
+.mkdisplayblockcursorpointer {
     cursor: pointer;
     line-height: 20px;
     transition: inherit;
     display: block
 }
 
-.xekRM {
+.mkdisplaynonefontSizeemmarginpx00 {
     color: color(from var(--MI_THEME-fg) srgb r g b/.75);
     margin: 8px 0 0;
     font-size: .85em
 }
 
-.xekRM:empty {
+.mkdisplaynonefontSizeemmarginpx00:empty {
     display: none
 }
 
-.xedBk {
+.mkfontSize2 {
     vertical-align: top;
     margin-left: .5em;
     font-size: 85%
 }
 
-.zmdxowus[data-v-b9985b0f] {
+.mkdisplayblockalignItemsendwidth[data-v-b9985b0f] {
     padding: 8px 16px
 }
 
-.zmdxowus>.caution[data-v-b9985b0f] {
+.mkdisplayblockalignItemsendwidth>.mkfontSizeemmarginpx2[data-v-b9985b0f] {
     color: red;
     margin: 0 0 8px;
     font-size: .8em
 }
 
-.zmdxowus>.caution>i[data-v-b9985b0f] {
+.mkdisplayblockalignItemsendwidth>.mkfontSizeemmarginpx2>i[data-v-b9985b0f] {
     margin-right: 4px
 }
 
-.zmdxowus>ul[data-v-b9985b0f] {
+.mkdisplayblockalignItemsendwidth>ul[data-v-b9985b0f] {
     margin: 0;
     padding: 0;
     list-style: none;
     display: block
 }
 
-.zmdxowus>ul>li[data-v-b9985b0f] {
+.mkdisplayblockalignItemsendwidth>ul>li[data-v-b9985b0f] {
     width: 100%;
     margin: 8px 0;
     padding: 0;
     display: flex
 }
 
-.zmdxowus>ul>li>.input[data-v-b9985b0f] {
+.mkdisplayblockalignItemsendwidth>ul>li>.mkflex[data-v-b9985b0f] {
     flex: 1
 }
 
-.zmdxowus>ul>li>button[data-v-b9985b0f] {
+.mkdisplayblockalignItemsendwidth>ul>li>button[data-v-b9985b0f] {
     width: 32px;
     padding: 4px 0
 }
 
-.zmdxowus>.add[data-v-b9985b0f] {
+.mkdisplayblockalignItemsendwidth>.mkmarginpx02[data-v-b9985b0f] {
     z-index: 1;
     margin: 8px 0
 }
 
-.zmdxowus>section[data-v-b9985b0f] {
+.mkdisplayblockalignItemsendwidth>section[data-v-b9985b0f] {
     margin: 16px 0 0
 }
 
-.zmdxowus>section>div[data-v-b9985b0f] {
+.mkdisplayblockalignItemsendwidth>section>div[data-v-b9985b0f] {
     flex-flow: wrap;
     gap: 12px;
     margin: 0 8px;
     display: flex
 }
 
-.zmdxowus>section>div[data-v-b9985b0f]:last-child {
+.mkdisplayblockalignItemsendwidth>section>div[data-v-b9985b0f]:last-child {
     flex: 1 0 auto
 }
 
-.zmdxowus>section>div:last-child>div[data-v-b9985b0f] {
+.mkdisplayblockalignItemsendwidth>section>div:last-child>div[data-v-b9985b0f] {
     flex-grow: 1
 }
 
-.zmdxowus>section>div:last-child>section[data-v-b9985b0f] {
+.mkdisplayblockalignItemsendwidth>section>div:last-child>section[data-v-b9985b0f] {
     flex-grow: 9999;
     align-items: end;
     gap: 4px;
     display: flex
 }
 
-.zmdxowus>section>div:last-child>section>.input[data-v-b9985b0f] {
+.mkdisplayblockalignItemsendwidth>section>div:last-child>section>.mkflex[data-v-b9985b0f] {
     flex: auto
 }
 
-.xpDI4 {
+.mkpositionrelative5 {
     position: relative;
     container-type: inline-size
 }
 
-.x6ccQ {
+.mkdisplayflex7 {
     z-index: 1000;
     flex-wrap: nowrap;
     gap: 4px;
@@ -3522,7 +3522,7 @@ html[data-color-scheme=light] .xnU59 {
     display: flex
 }
 
-.xCpWa {
+.mkdisplayflexalignItemscenter2 {
     flex-wrap: nowrap;
     flex: 1;
     align-items: center;
@@ -3531,11 +3531,11 @@ html[data-color-scheme=light] .xnU59 {
     display: flex
 }
 
-.xjSpm {
+.mkpaddingpx2 {
     padding: 8px
 }
 
-.xdKUg {
+.mkdisplayblockwidthpxheightpx3 {
     object-fit: cover;
     width: 28px;
     height: 28px;
@@ -3543,7 +3543,7 @@ html[data-color-scheme=light] .xnU59 {
     display: block
 }
 
-.x1Ye0 {
+.mkdisplayflexalignItemscenteroverflowclip {
     flex-wrap: nowrap;
     align-items: center;
     gap: 4px;
@@ -3555,33 +3555,33 @@ html[data-color-scheme=light] .xnU59 {
     overflow: clip
 }
 
-.xBTsK {
+.mkcursorwaitopacitymarginpx12px12px6px {
     vertical-align: bottom;
     margin: 12px 12px 12px 6px
 }
 
-.xBTsK:focus-visible {
+.mkcursorwaitopacitymarginpx12px12px6px:focus-visible {
     outline: none
 }
 
-.xBTsK:focus-visible>.xiS7Q {
+.mkcursorwaitopacitymarginpx12px12px6px:focus-visible>.mkborderRadiuspxpaddingpx {
     outline: 2px solid var(--MI_THEME-fgOnAccent);
     outline-offset: -4px
 }
 
-.xBTsK:disabled {
+.mkcursorwaitopacitymarginpx12px12px6px:disabled {
     opacity: .7
 }
 
-.xBTsK.xlHOl {
+.mkcursorwaitopacitymarginpx12px12px6px.mkcursorwait2 {
     cursor: wait
 }
 
-.xBTsK:not(:disabled):hover>.xiS7Q,.xBTsK:not(:disabled):active>.xiS7Q {
+.mkcursorwaitopacitymarginpx12px12px6px:not(:disabled):hover>.mkborderRadiuspxpaddingpx,.mkcursorwaitopacitymarginpx12px12px6px:not(:disabled):active>.mkborderRadiuspxpaddingpx {
     background: linear-gradient(90deg, hsl(from var(--MI_THEME-accent) h s calc(l + 5)), hsl(from var(--MI_THEME-accent) h s calc(l + 5)))
 }
 
-.x6HLb {
+.mkpositionabsolutewidthpxheight3 {
     pointer-events: none;
     border-radius: 999px;
     width: 5px;
@@ -3591,7 +3591,7 @@ html[data-color-scheme=light] .xnU59 {
     left: 12px
 }
 
-.xiS7Q {
+.mkborderRadiuspxpaddingpx {
     box-sizing: border-box;
     min-width: 90px;
     color: var(--MI_THEME-fgOnAccent);
@@ -3602,40 +3602,40 @@ html[data-color-scheme=light] .xnU59 {
     line-height: 34px
 }
 
-.x9WHn {
+.mkborderRadiuspxpaddingpxmargin {
     border-radius: 6px;
     margin: 0;
     padding: 8px
 }
 
-.x9WHn:hover {
+.mkborderRadiuspxpaddingpxmargin:hover {
     background: light-dark(#0000000d,#ffffff0d)
 }
 
-.x9WHn:disabled {
+.mkborderRadiuspxpaddingpxmargin:disabled {
     background: 0 0
 }
 
-.x9WHn.x6GzG {
+.mkborderRadiuspxpaddingpxmargin.mkcolorFf2a2a {
     color: #ff2a2a
 }
 
-.xbDCc {
+.mkdisplaynoneopacity {
     padding-left: 6px
 }
 
-.xrrzA {
+.mkoverflowclipopacity {
     text-overflow: ellipsis;
     white-space: nowrap;
     max-width: 210px;
     overflow: clip
 }
 
-.xrrzA:enabled>.xbDCc {
+.mkoverflowclipopacity:enabled>.mkdisplaynoneopacity {
     opacity: .8
 }
 
-.xoGjR {
+.mkoverflowautopaddingpx20px0 {
     background-size: auto;
     min-height: 75px;
     max-height: 150px;
@@ -3643,48 +3643,48 @@ html[data-color-scheme=light] .xnU59 {
     overflow: auto
 }
 
-html[data-color-scheme=dark] .xoGjR {
+html[data-color-scheme=dark] .mkoverflowautopaddingpx20px0 {
     background-image: repeating-linear-gradient(135deg,#0000,#0000 5px,#0004 5px 10px)
 }
 
-html[data-color-scheme=light] .xoGjR {
+html[data-color-scheme=light] .mkoverflowautopaddingpx20px0 {
     background-image: repeating-linear-gradient(135deg,#0000,#0000 5px,#00000005 5px 10px)
 }
 
-.xhv1G {
+.mkpaddingpx16px {
     padding: 0 20px 16px
 }
 
-.xy4gH {
+.mkmarginpx {
     color: var(--MI_THEME-accent);
     margin: 0 0 8px
 }
 
-.x9eP3 {
+.mkoverflowautopaddingpx24px {
     white-space: nowrap;
     margin-bottom: 8px;
     padding: 6px 24px;
     overflow: auto
 }
 
-.x8ZVp {
+.mkdisplayinlinefontSizepx {
     font-size: 14px;
     display: inline;
     top: -1px
 }
 
-.xfPy3 {
+.mkborderRadiuspxpaddingpx08px8px {
     background: light-dark(#0000001a,#ffffff1a);
     border-radius: 8px;
     margin-right: 14px;
     padding: 8px 0 8px 8px
 }
 
-.xeg2G,.xbJnX,.x7oCb {
+.mkmarginpx16px,.mkmarginpx16px2,.mkmarginpx16px3 {
     margin: 0 20px 16px
 }
 
-.xxQx9,.xqwIh,.x8B0D {
+.mkdisplayblockwidthfontSize,.mkdisplayblockwidthfontSize2,.mkdisplayblockwidthfontSize3 {
     box-sizing: border-box;
     width: 100%;
     color: var(--MI_THEME-fg);
@@ -3698,26 +3698,26 @@ html[data-color-scheme=light] .xoGjR {
     display: block
 }
 
-.xxQx9:focus,.xqwIh:focus,.x8B0D:focus {
+.mkdisplayblockwidthfontSize:focus,.mkdisplayblockwidthfontSize2:focus,.mkdisplayblockwidthfontSize3:focus {
     outline: none
 }
 
-.xxQx9:disabled,.xqwIh:disabled,.x8B0D:disabled {
+.mkdisplayblockwidthfontSize:disabled,.mkdisplayblockwidthfontSize2:disabled,.mkdisplayblockwidthfontSize3:disabled {
     opacity: .5
 }
 
-.xDrbJ {
+.mkpositionrelativewidth4 {
     width: 100%;
     position: relative
 }
 
-.xxQx9 {
+.mkdisplayblockwidthfontSize {
     z-index: 1;
     border-bottom: solid .5px var(--MI_THEME-divider);
     padding-bottom: 8px
 }
 
-.xrlSO {
+.mkpositionabsolutetextAligncenterfontSizeem2 {
     color: var(--MI_THEME-warn);
     text-align: center;
     border-radius: 6px;
@@ -3730,27 +3730,27 @@ html[data-color-scheme=light] .xoGjR {
     right: 2px
 }
 
-.xrlSO.xAM9h {
+.mkpositionabsolutetextAligncenterfontSizeem2.mkcolorFf2a2a2 {
     color: #ff2a2a
 }
 
-.xqwIh {
+.mkdisplayblockwidthfontSize2 {
     z-index: 1;
     border-top: solid .5px var(--MI_THEME-divider);
     padding-top: 8px;
     padding-bottom: 8px
 }
 
-.xnEld {
+.mkpositionrelativewidth5 {
     width: 100%;
     position: relative
 }
 
-.xnEld.xu6Ni {
+.mkpositionrelativewidth5.mkpaddingToppx2 {
     padding-top: 8px
 }
 
-.x8B0D {
+.mkdisplayblockwidthfontSize3 {
     field-sizing: content;
     width: 100%;
     min-width: 100%;
@@ -3759,7 +3759,7 @@ html[data-color-scheme=light] .xoGjR {
     max-height: 500px
 }
 
-.xoS7Y {
+.mkpositionabsolutetextAligncenterfontSizeem3 {
     color: var(--MI_THEME-warn);
     text-align: center;
     border-radius: 6px;
@@ -3771,17 +3771,17 @@ html[data-color-scheme=light] .xoGjR {
     right: 2px
 }
 
-.xoS7Y.xukGL {
+.mkpositionabsolutetextAligncenterfontSizeem3.mkcolorFf2a2a3 {
     color: #ff2a2a
 }
 
-.xkr7J {
+.mkdisplayflexfontSizeempaddingpx16px {
     padding: 0 16px 16px;
     font-size: 1em;
     display: flex
 }
 
-.xwaYk {
+.mkdisplaygrid2 {
     flex: 1;
     grid-template-columns: repeat(auto-fill,minmax(42px,1fr));
     grid-auto-rows: 40px;
@@ -3789,7 +3789,7 @@ html[data-color-scheme=light] .xoGjR {
     display: grid
 }
 
-.xizQe {
+.mkdisplaygrid3 {
     direction: rtl;
     flex: 0;
     grid-template-columns: repeat(auto-fill,minmax(42px,1fr));
@@ -3799,7 +3799,7 @@ html[data-color-scheme=light] .xoGjR {
     display: grid
 }
 
-.xjAub {
+.mkdisplayinlineBlockwidthautoheight {
     border-radius: 6px;
     width: auto;
     height: 100%;
@@ -3809,73 +3809,73 @@ html[data-color-scheme=light] .xoGjR {
     display: inline-block
 }
 
-.xjAub:hover {
+.mkdisplayinlineBlockwidthautoheight:hover {
     background: light-dark(#0000000d,#ffffff0d)
 }
 
-.xjAub.xfRaq,.xF7YY {
+.mkdisplayinlineBlockwidthautoheight.mkcolorTheme5,.mkcolorTheme6 {
     color: var(--MI_THEME-accent)
 }
 
 @container (width<=500px) {
-    .x1Ye0 {
+    .mkdisplayflexalignItemscenteroverflowclip {
         font-size: .9em
     }
 
-    .xbDCc {
+    .mkdisplaynoneopacity {
         display: none
     }
 
-    .xrrzA {
+    .mkoverflowclipopacity {
         overflow: initial
     }
 
-    .xBTsK {
+    .mkcursorwaitopacitymarginpx12px12px6px {
         margin: 8px 8px 8px 4px
     }
 
-    .x9eP3 {
+    .mkoverflowautopaddingpx24px {
         padding: 6px 16px
     }
 
-    .xoGjR {
+    .mkoverflowautopaddingpx20px0 {
         padding: 16px 14px 0
     }
 
-    .xxQx9,.xqwIh,.x8B0D {
+    .mkdisplayblockwidthfontSize,.mkdisplayblockwidthfontSize2,.mkdisplayblockwidthfontSize3 {
         padding: 0 16px
     }
 
-    .x8B0D {
+    .mkdisplayblockwidthfontSize3 {
         min-height: 80px
     }
 
-    .xkr7J {
+    .mkdisplayflexfontSizeempaddingpx16px {
         padding: 0 8px 8px
     }
 }
 
 @container (width<=350px) {
-    .xkr7J {
+    .mkdisplayflexfontSizeempaddingpx16px {
         font-size: .9em
     }
 
-    .xwaYk,.xizQe {
+    .mkdisplaygrid2,.mkdisplaygrid3 {
         grid-template-columns: repeat(auto-fill,minmax(38px,1fr))
     }
 
-    .x1Ye0 {
+    .mkdisplayflexalignItemscenteroverflowclip {
         gap: 0
     }
 }
 
-.xxski {
+.mkwidthmarginAutoAuto {
     width: 100%;
     max-width: 520px;
     margin: 0 auto auto
 }
 
-.x56Ev {
+.mkpositionrelativedisplayflexalignItemscenter3 {
     box-sizing: border-box;
     text-align: center;
     background: var(--MI_THEME-panel);
@@ -3886,7 +3886,7 @@ html[data-color-scheme=light] .xoGjR {
     position: relative
 }
 
-.x56Ev.xkW4j {
+.mkpositionrelativedisplayflexalignItemscenter3.mkdisplayflexalignItemscenterjustifyContentcenter4 {
     justify-content: center;
     align-items: center;
     width: 96px;
@@ -3895,39 +3895,39 @@ html[data-color-scheme=light] .xoGjR {
     display: flex
 }
 
-.xiIhY {
+.mkfontSizepxopacity2 {
     font-size: 32px
 }
 
-.xiIhY.xjFsq {
+.mkfontSizepxopacity2.mkcolorTheme7 {
     color: var(--MI_THEME-accent)
 }
 
-.xiIhY.xt0yC {
+.mkfontSizepxopacity2.mkopacity5 {
     opacity: .7
 }
 
-.xBKDx {
+.mkmarginToppx2 {
     margin-top: 16px
 }
 
-.xmvLQ {
+.mkheight {
     background-color: var(--MI_THEME-bg);
     height: 100%;
     contain: size style paint!important
 }
 
-.xAyR3,.xCCbe {
+.mktransitionopacity2sTransform2s,.mktransitionopacity2sTransform2s2 {
     transition: opacity .2s,transform .2s!important
 }
 
-.xeaYl,.x1xGm {
+.mkopacitytransformscale95,.mkopacitytransformscale96 {
     pointer-events: none;
     opacity: 0;
     transform: scale(.9)
 }
 
-.xpAOc {
+.mkpositionfixedborderRadius {
     --MI-stickyTop: 0;
     --MI-stickyBottom: 0;
     position: fixed;
@@ -3935,11 +3935,11 @@ html[data-color-scheme=light] .xoGjR {
     left: 0
 }
 
-.xpAOc.xwAht>.xnMEB {
+.mkpositionfixedborderRadius.mkborderRadius>.mkdisplayflexflexDirectioncolumnwidth {
     border-radius: 0
 }
 
-.xnMEB {
+.mkdisplayflexflexDirectioncolumnwidth {
     contain: content;
     border-radius: var(--MI-radius);
     flex-direction: column;
@@ -3949,7 +3949,7 @@ html[data-color-scheme=light] .xoGjR {
     overflow: clip
 }
 
-.xbt7a {
+.mkpositionrelativedisplayflexheightTheme {
     --height: 39px;
     z-index: 1;
     -webkit-user-select: none;
@@ -3964,32 +3964,32 @@ html[data-color-scheme=light] .xoGjR {
     position: relative
 }
 
-.xbt7a.xnNqM {
+.mkpositionrelativedisplayflexheightTheme.mkStyledElement17 {
     --height: 32px
 }
 
-.x7LLr {
+.mkwidthThemeheightTheme2 {
     height: var(--height);
     width: var(--height)
 }
 
-.x7LLr:hover {
+.mkwidthThemeheightTheme2:hover {
     color: var(--MI_THEME-fgHighlighted)
 }
 
-.x7LLr.xD8eR {
+.mkwidthThemeheightTheme2.mkcolorTheme8 {
     color: var(--MI_THEME-accent)
 }
 
-.xF9hE {
+.mkmarginRightpx2 {
     margin-right: 16px
 }
 
-.xaEYs {
+.mkminWidthpx {
     min-width: 16px
 }
 
-.x3FS8 {
+.mkpositionrelativeoverflowhiddencursormove {
     line-height: var(--height);
     white-space: nowrap;
     text-overflow: ellipsis;
@@ -4000,19 +4000,19 @@ html[data-color-scheme=light] .xoGjR {
     overflow: hidden
 }
 
-.xfc6t {
+.mkoverflowauto2 {
     background: var(--MI_THEME-panel);
     flex: 1;
     overflow: auto;
     container-type: size
 }
 
-.xe7xr {
+.mkpositionabsolute7 {
     touch-action: none;
     position: absolute
 }
 
-.x6GRm {
+.mkwidthheightpxcursornsResize {
     cursor: ns-resize;
     width: 100%;
     height: 8px;
@@ -4020,7 +4020,7 @@ html[data-color-scheme=light] .xoGjR {
     left: 0
 }
 
-.xpwnF {
+.mkwidthpxheightcursorewResize {
     cursor: ew-resize;
     width: 8px;
     height: 100%;
@@ -4028,7 +4028,7 @@ html[data-color-scheme=light] .xoGjR {
     right: -8px
 }
 
-.xnqRB {
+.mkwidthheightpxcursornsResize2 {
     cursor: ns-resize;
     width: 100%;
     height: 8px;
@@ -4036,7 +4036,7 @@ html[data-color-scheme=light] .xoGjR {
     left: 0
 }
 
-.xuyYZ {
+.mkwidthpxheightcursorewResize2 {
     cursor: ew-resize;
     width: 8px;
     height: 100%;
@@ -4044,7 +4044,7 @@ html[data-color-scheme=light] .xoGjR {
     left: -8px
 }
 
-.xawgF {
+.mkwidthpxheightpxcursornwseResize {
     cursor: nwse-resize;
     width: 16px;
     height: 16px;
@@ -4052,7 +4052,7 @@ html[data-color-scheme=light] .xoGjR {
     left: -8px
 }
 
-.x6Jrb {
+.mkwidthpxheightpxcursorneswResize {
     cursor: nesw-resize;
     width: 16px;
     height: 16px;
@@ -4060,7 +4060,7 @@ html[data-color-scheme=light] .xoGjR {
     right: -8px
 }
 
-.xviz9 {
+.mkwidthpxheightpxcursornwseResize2 {
     cursor: nwse-resize;
     width: 16px;
     height: 16px;
@@ -4068,7 +4068,7 @@ html[data-color-scheme=light] .xoGjR {
     right: -8px
 }
 
-.xij7W {
+.mkwidthpxheightpxcursorneswResize2 {
     cursor: nesw-resize;
     width: 16px;
     height: 16px;
@@ -4076,22 +4076,22 @@ html[data-color-scheme=light] .xoGjR {
     left: -8px
 }
 
-.xyMov {
+.mkheight2 {
     background: var(--MI_THEME-bg);
     --MI-margin: var(--MI-marginHalf);
     height: 100%
 }
 
-.xAk08,.xoHyk {
+.mktransitionopacity3sTransform3s,.mktransitionopacity3sTransform3s2 {
     transition: opacity .3s,transform .3s!important
 }
 
-.xt2qE,.xaiPV {
+.mkopacitytransformtranslatey1003,.mkopacitytransformtranslatey1004 {
     opacity: 0;
     transform: translateY(-100%)
 }
 
-.x5ckv {
+.mkpositionfixedwidthminContentoverflowclip {
     text-align: center;
     pointer-events: none;
     border-radius: 8px;
@@ -4107,7 +4107,7 @@ html[data-color-scheme=light] .xoGjR {
     box-shadow: 0 4px 16px #0000004d
 }
 
-.xa5A4 {
+.mkpositionrelativetextAligncenterborderRadiuspx {
     box-sizing: border-box;
     text-align: center;
     background: var(--MI_THEME-panel);
@@ -4119,34 +4119,34 @@ html[data-color-scheme=light] .xoGjR {
     position: relative
 }
 
-.xd7w2 {
+.mkfontSizepx3 {
     font-size: 24px
 }
 
-.xd7w2+.xorK6 {
+.mkfontSizepx3+.mkfontSizeemmarginpx3 {
     margin-top: 8px
 }
 
-.xyPAY {
+.mkdisplayblockmarginAuto {
     margin: 0 auto;
     display: block
 }
 
-.xorK6 {
+.mkfontSizeemmarginpx3 {
     margin: 0 0 8px;
     font-size: 1.1em;
     font-weight: 700
 }
 
-.xorK6+.xtrPf {
+.mkfontSizeemmarginpx3+.mkmarginpx003 {
     margin-top: 8px
 }
 
-.xtrPf {
+.mkmarginpx003 {
     margin: 16px 0 0
 }
 
-.xDuoJ {
+.mkdisplayflexjustifyContentcenter {
     flex-wrap: wrap;
     justify-content: center;
     gap: 8px;
@@ -4154,55 +4154,55 @@ html[data-color-scheme=light] .xoGjR {
     display: flex
 }
 
-.x7rzo.xkCzm>.xinY1>.xunvs {
+.mkwidthtextAligncenterfontSizeem.mktextAligncenter2>.mkwidthoverflowautotextAligncenter>.mkpositionrelativedisplayflexalignItemscenter4 {
     text-align: center
 }
 
-.x7rzo:not(.xoBDM):not(.xBCwC)>.xinY1 {
+.mkwidthtextAligncenterfontSizeem:not(.mkwidthfontSizeemborderRadiuspx24px00):not(.mkmaxWidthpx)>.mkwidthoverflowautotextAligncenter {
     max-width: 400px
 }
 
-.x7rzo.xqTmZ:not(.xoBDM)>.xinY1 {
+.mkwidthtextAligncenterfontSizeem.mkfontSizeempaddingpx20px:not(.mkwidthfontSizeemborderRadiuspx24px00)>.mkwidthoverflowautotextAligncenter {
     min-width: 230px
 }
 
-.x7rzo.xqTmZ:not(.xoBDM)>.xinY1>.xunvs {
+.mkwidthtextAligncenterfontSizeem.mkfontSizeempaddingpx20px:not(.mkwidthfontSizeemborderRadiuspx24px00)>.mkwidthoverflowautotextAligncenter>.mkpositionrelativedisplayflexalignItemscenter4 {
     padding: 6px 20px;
     font-size: .95em;
     line-height: 24px
 }
 
-.x7rzo.xoBDM {
+.mkwidthtextAligncenterfontSizeem.mkwidthfontSizeemborderRadiuspx24px00 {
     max-width: 600px;
     margin: auto
 }
 
-.x7rzo.xoBDM>.xinY1 {
+.mkwidthtextAligncenterfontSizeem.mkwidthfontSizeemborderRadiuspx24px00>.mkwidthoverflowautotextAligncenter {
     padding: 12px 0 max(env(safe-area-inset-bottom,0px), 12px) 0;
     border-radius: 24px 24px 0 0;
     width: 100%
 }
 
-.x7rzo.xoBDM>.xinY1>.xunvs {
+.mkwidthtextAligncenterfontSizeem.mkwidthfontSizeemborderRadiuspx24px00>.mkwidthoverflowautotextAligncenter>.mkpositionrelativedisplayflexalignItemscenter4 {
     padding: 12px 24px;
     font-size: 1em
 }
 
-.x7rzo.xoBDM>.xinY1>.xunvs:before {
+.mkwidthtextAligncenterfontSizeem.mkwidthfontSizeemborderRadiuspx24px00>.mkwidthoverflowautotextAligncenter>.mkpositionrelativedisplayflexalignItemscenter4:before {
     border-radius: 12px;
     width: calc(100% - 24px)
 }
 
-.x7rzo.xoBDM>.xinY1>.xunvs>.xh8pZ {
+.mkwidthtextAligncenterfontSizeem.mkwidthfontSizeemborderRadiuspx24px00>.mkwidthoverflowautotextAligncenter>.mkpositionrelativedisplayflexalignItemscenter4>.mkwidthpx2 {
     width: 24px;
     margin-right: 14px
 }
 
-.x7rzo.xoBDM>.xinY1>.xzo34 {
+.mkwidthtextAligncenterfontSizeem.mkwidthfontSizeemborderRadiuspx24px00>.mkwidthoverflowautotextAligncenter>.mkmarginpx03 {
     margin: 12px 0
 }
 
-.xinY1 {
+.mkwidthoverflowautotextAligncenter {
     box-sizing: border-box;
     overscroll-behavior: contain;
     min-width: 200px;
@@ -4211,11 +4211,11 @@ html[data-color-scheme=light] .xoGjR {
     overflow: auto
 }
 
-.xinY1:focus-visible {
+.mkwidthoverflowautotextAligncenter:focus-visible {
     outline: none
 }
 
-.xunvs {
+.mkpositionrelativedisplayflexalignItemscenter4 {
     box-sizing: border-box;
     white-space: nowrap;
     text-align: left;
@@ -4232,7 +4232,7 @@ html[data-color-scheme=light] .xoGjR {
     text-decoration: none!important
 }
 
-.xunvs:before {
+.mkpositionrelativedisplayflexalignItemscenter4:before {
     content: "";
     z-index: -1;
     border-radius: 6px;
@@ -4246,38 +4246,38 @@ html[data-color-scheme=light] .xoGjR {
     right: 0
 }
 
-.xunvs:focus-visible {
+.mkpositionrelativedisplayflexalignItemscenter4:focus-visible {
     outline: none
 }
 
-.xunvs:focus-visible:not(:hover):not(:active):before {
+.mkpositionrelativedisplayflexalignItemscenter4:focus-visible:not(:hover):not(:active):before {
     outline: var(--MI_THEME-focus) solid 2px;
     outline-offset: -2px
 }
 
-.xunvs:not(:disabled):hover,.xunvs:not(:disabled):focus-visible:active,.xunvs:not(:disabled):focus-visible.x3tcY {
+.mkpositionrelativedisplayflexalignItemscenter4:not(:disabled):hover,.mkpositionrelativedisplayflexalignItemscenter4:not(:disabled):focus-visible:active,.mkpositionrelativedisplayflexalignItemscenter4:not(:disabled):focus-visible.mkpositionrelative6 {
     color: var(--menuHoverFg,var(--MI_THEME-accent));
     z-index: 10;
     position: relative
 }
 
-.xunvs:not(:disabled):hover:before,.xunvs:not(:disabled):focus-visible:active:before,.xunvs:not(:disabled):focus-visible.x3tcY:before {
+.mkpositionrelativedisplayflexalignItemscenter4:not(:disabled):hover:before,.mkpositionrelativedisplayflexalignItemscenter4:not(:disabled):focus-visible:active:before,.mkpositionrelativedisplayflexalignItemscenter4:not(:disabled):focus-visible.mkpositionrelative6:before {
     background-color: var(--menuHoverBg,var(--MI_THEME-accentedBg))
 }
 
-.xunvs:not(:disabled):not(:focus-visible):active,.xunvs:not(:disabled):not(:focus-visible).x3tcY {
+.mkpositionrelativedisplayflexalignItemscenter4:not(:disabled):not(:focus-visible):active,.mkpositionrelativedisplayflexalignItemscenter4:not(:disabled):not(:focus-visible).mkpositionrelative6 {
     color: var(--menuActiveFg,var(--MI_THEME-fgOnAccent))
 }
 
-.xunvs:not(:disabled):not(:focus-visible):active:before,.xunvs:not(:disabled):not(:focus-visible).x3tcY:before {
+.mkpositionrelativedisplayflexalignItemscenter4:not(:disabled):not(:focus-visible):active:before,.mkpositionrelativedisplayflexalignItemscenter4:not(:disabled):not(:focus-visible).mkpositionrelative6:before {
     background-color: var(--menuActiveBg,var(--MI_THEME-accent))
 }
 
-.xunvs:disabled {
+.mkpositionrelativedisplayflexalignItemscenter4:disabled {
     cursor: not-allowed
 }
 
-.xunvs.xlW0E {
+.mkpositionrelativedisplayflexalignItemscenter4.mkStyledElement18 {
     --menuFg: var(--MI_THEME-error);
     --menuHoverFg: #fff;
     --menuHoverBg: var(--MI_THEME-error);
@@ -4285,17 +4285,17 @@ html[data-color-scheme=light] .xoGjR {
     --menuActiveBg: hsl(from var(--MI_THEME-error) h s calc(l - 10))
 }
 
-.xunvs.x3wP5,.xunvs.xlXev {
+.mkpositionrelativedisplayflexalignItemscenter4.mkStyledElement19,.mkpositionrelativedisplayflexalignItemscenter4.mkStyledElement20 {
     --menuActiveFg: var(--MI_THEME-accent);
     --menuActiveBg: var(--MI_THEME-accentedBg)
 }
 
-.xunvs.xbLwJ,.xunvs.x6Ns0 {
+.mkpositionrelativedisplayflexalignItemscenter4.mkopacity6,.mkpositionrelativedisplayflexalignItemscenter4.mkopacity7 {
     pointer-events: none;
     opacity: .7
 }
 
-.xD1rz {
+.mkdisplayflexalignItemscenterjustifyContentspaceBetween {
     text-overflow: ellipsis;
     justify-content: space-between;
     align-items: center;
@@ -4305,55 +4305,55 @@ html[data-color-scheme=light] .xoGjR {
     display: flex
 }
 
-.xwnRi {
+.mkmaxWidthcalc100vw4rem {
     max-width: calc(100vw - 4rem)
 }
 
-.xgh84 {
+.mkoverflowhidden5 {
     text-overflow: ellipsis;
     overflow: hidden
 }
 
-.xhJ9v {
+.mkfontSizeopacity2 {
     text-wrap: auto;
     opacity: .7;
     font-size: 85%
 }
 
-.xEbZQ {
+.mkmarginLeftpx {
     --height: 1.35em;
     margin-left: -2px
 }
 
-.xzElu {
+.mkoverflowhidden6 {
     text-overflow: ellipsis;
     margin-left: 8px;
     overflow: hidden
 }
 
-.xh8pZ {
+.mkwidthpx2 {
     margin-right: 8px;
     line-height: 1
 }
 
-.xzypW {
+.mkmarginLeftauto {
     margin-left: auto
 }
 
-.xw5W9 {
+.mkwidthpxheightpx5 {
     width: 20px;
     height: 20px;
     margin-right: 5px
 }
 
-.x853c {
+.mkdisplayflexalignItemscenterfontSizepx3 {
     color: var(--MI_THEME-indicator);
     align-items: center;
     font-size: 12px;
     display: flex
 }
 
-.xpxDN {
+.mkpositionrelativeoverflowhiddentextAlignleft {
     box-sizing: border-box;
     white-space: nowrap;
     text-align: left;
@@ -4366,12 +4366,12 @@ html[data-color-scheme=light] .xoGjR {
     overflow: hidden
 }
 
-.xzo34 {
+.mkmarginpx03 {
     border-top: solid .5px var(--MI_THEME-divider);
     margin: 8px 0
 }
 
-.xkpm0 {
+.mkpositionrelativedisplayinlineBlockwidthem {
     vertical-align: -.125em;
     border: solid 2px var(--MI_THEME-divider);
     background-color: var(--MI_THEME-panel);
@@ -4382,11 +4382,11 @@ html[data-color-scheme=light] .xoGjR {
     position: relative
 }
 
-.xkpm0.x5sBw {
+.mkpositionrelativedisplayinlineBlockwidthem.mkpositionabsolutedisplayblockwidth3 {
     border-color: var(--MI_THEME-accent)
 }
 
-.xkpm0.x5sBw:after {
+.mkpositionrelativedisplayinlineBlockwidthem.mkpositionabsolutedisplayblockwidth3:after {
     content: "";
     background-color: var(--MI_THEME-accent);
     border-radius: 50%;
@@ -4399,7 +4399,7 @@ html[data-color-scheme=light] .xoGjR {
     transform: translate(-50%,-50%)
 }
 
-.x9hZh {
+.mkpositionabsolutewidthheight8 {
     cursor: pointer;
     width: 100%;
     height: 100%;
@@ -4407,28 +4407,28 @@ html[data-color-scheme=light] .xoGjR {
     left: 0
 }
 
-.x9hZh.xbXLN {
+.mkpositionabsolutewidthheight8.mkbackgroundf04 {
     background: #0f04
 }
 
-.x9hZh.xbXLN:hover {
+.mkpositionabsolutewidthheight8.mkbackgroundf04:hover {
     background: #f004
 }
 
-.xhVuk {
+.mkborderRadiuspx24px002 {
     border-radius: 24px 24px 0 0
 }
 
-.xlU4G,.xms3Z {
+.mktransformOrigintransitionopacity3sCubicBezier16131Transform3sCubicBezi,.mktransformOrigintransitionopacity3sCubicBezier16131Transform3sCubicBezi2 {
     transform-origin: 0 0;
     transition: opacity .3s cubic-bezier(.16,1,.3,1),transform .3s cubic-bezier(.16,1,.3,1)
 }
 
-.xg6wD,.xl6Jd {
+.mkopacitytransformscale97,.mkopacitytransformscale98 {
     opacity: 0;
     transform: scale(.9)
 }
 
-.xsGnU {
+.mkpositionabsolute8 {
     position: absolute
 }

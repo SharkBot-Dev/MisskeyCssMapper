@@ -1,24 +1,16 @@
-import fs from "fs";
-import path from "path";
+import fs from "node:fs";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
+import { patchCss } from "./patch.js";
 
-import { fileURLToPath } from 'url';
-
-import { patchCss } from "./patch.js"
-
-const __filename = fileURLToPath(import.meta.url);
-
-const __dirname = path.dirname(__filename);
-
-const folderPath = path.join(__dirname, '../css');
+const here = path.dirname(fileURLToPath(import.meta.url));
+const inputDirectory = path.resolve(here, "../css");
+const outputDirectory = path.resolve(here, "../patched_css");
 
 try {
-  const files = fs.readdirSync(folderPath);
-
-  const cssFilesData = files
-    .filter(file => path.extname(file) === '.css')
-    .map(file => {
-      patchCss(path.join(folderPath, file), file);
-    });
-} catch (err) {
-  console.error('エラーが発生しました:', err);
+  const files = fs.readdirSync(inputDirectory).filter(file => path.extname(file) === ".css");
+  for (const file of files) patchCss(path.join(inputDirectory, file), file, outputDirectory);
+} catch (error) {
+  console.error("CSS の処理に失敗しました:", error);
+  process.exitCode = 1;
 }
